@@ -1,0 +1,3947 @@
+{
+  "form": [
+    {
+      "text": "Leah Westfall",
+      "box": [84, 31, 192, 49],
+      "words": [
+        { "box": [84, 31, 122, 49], "text": "Leah" },
+        { "box": [129, 31, 192, 49], "text": "Westfall" }
+      ],
+      "label": "Name",
+      "linking": [],
+      "id": 0
+    },
+    {
+      "text": "Leah.Westfall@gmail.com",
+      "box": [123, 73, 261, 85],
+      "words": [
+        { "box": [123, 73, 261, 85], "text": "Leah.Westfall@gmail.com" }
+      ],
+      "label": "Email",
+      "linking": [],
+      "id": 1
+    },
+    {
+      "text": "(330) 590-0094",
+      "box": [113, 89, 199, 100],
+      "words": [
+        { "box": [113, 89, 143, 100], "text": "(330)" },
+        { "box": [146, 89, 199, 100], "text": "590-0094" }
+      ],
+      "label": "Phone",
+      "linking": [],
+      "id": 2
+    },
+    {
+      "text": "Digital",
+      "box": [84, 55, 126, 70],
+      "words": [{ "box": [84, 55, 126, 70], "text": "Digital" }],
+      "label": "Other",
+      "linking": [],
+      "id": 3
+    },
+    {
+      "text": "Copywriter",
+      "box": [131, 55, 203, 70],
+      "words": [{ "box": [131, 55, 203, 70], "text": "Copywriter" }],
+      "label": "Other",
+      "linking": [],
+      "id": 4
+    },
+    {
+      "text": "&",
+      "box": [208, 55, 218, 70],
+      "words": [{ "box": [208, 55, 218, 70], "text": "&" }],
+      "label": "Other",
+      "linking": [],
+      "id": 5
+    },
+    {
+      "text": "Web",
+      "box": [223, 55, 253, 70],
+      "words": [{ "box": [223, 55, 253, 70], "text": "Web" }],
+      "label": "Other",
+      "linking": [],
+      "id": 6
+    },
+    {
+      "text": "Content",
+      "box": [257, 55, 310, 70],
+      "words": [{ "box": [257, 55, 310, 70], "text": "Content" }],
+      "label": "Other",
+      "linking": [],
+      "id": 7
+    },
+    {
+      "text": "Writer/Editor",
+      "box": [314, 55, 400, 70],
+      "words": [{ "box": [314, 55, 400, 70], "text": "Writer/Editor" }],
+      "label": "Other",
+      "linking": [],
+      "id": 8
+    },
+    {
+      "text": "Email:",
+      "box": [84, 73, 119, 85],
+      "words": [{ "box": [84, 73, 119, 85], "text": "Email:" }],
+      "label": "Other",
+      "linking": [],
+      "id": 9
+    },
+    {
+      "text": "Cell:",
+      "box": [84, 89, 109, 100],
+      "words": [{ "box": [84, 89, 109, 100], "text": "Cell:" }],
+      "label": "Other",
+      "linking": [],
+      "id": 10
+    },
+    {
+      "text": "Site:",
+      "box": [84, 104, 110, 116],
+      "words": [{ "box": [84, 104, 110, 116], "text": "Site:" }],
+      "label": "Other",
+      "linking": [],
+      "id": 11
+    },
+    {
+      "text": "LeahWestfall.com",
+      "box": [113, 104, 208, 116],
+      "words": [{ "box": [113, 104, 208, 116], "text": "LeahWestfall.com" }],
+      "label": "Other",
+      "linking": [],
+      "id": 12
+    },
+    {
+      "text": "LinkedIn:",
+      "box": [84, 119, 134, 131],
+      "words": [{ "box": [84, 119, 134, 131], "text": "LinkedIn:" }],
+      "label": "Other",
+      "linking": [],
+      "id": 13
+    },
+    {
+      "text": "http://www.linkedin.com/in/leahwestfall",
+      "box": [138, 119, 352, 131],
+      "words": [
+        {
+          "box": [138, 119, 352, 131],
+          "text": "http://www.linkedin.com/in/leahwestfall"
+        }
+      ],
+      "label": "Other",
+      "linking": [],
+      "id": 14
+    },
+    {
+      "text": "Summary",
+      "box": [87, 154, 140, 165],
+      "words": [{ "box": [87, 154, 140, 165], "text": "Summary" }],
+      "label": "Other",
+      "linking": [],
+      "id": 15
+    },
+    {
+      "text": "Digital",
+      "box": [87, 167, 122, 179],
+      "words": [{ "box": [87, 167, 122, 179], "text": "Digital" }],
+      "label": "Other",
+      "linking": [],
+      "id": 16
+    },
+    {
+      "text": "writer/editor",
+      "box": [126, 167, 195, 179],
+      "words": [{ "box": [126, 167, 195, 179], "text": "writer/editor" }],
+      "label": "Other",
+      "linking": [],
+      "id": 17
+    },
+    {
+      "text": "with",
+      "box": [199, 167, 222, 179],
+      "words": [{ "box": [199, 167, 222, 179], "text": "with" }],
+      "label": "Other",
+      "linking": [],
+      "id": 18
+    },
+    {
+      "text": "over",
+      "box": [226, 167, 251, 179],
+      "words": [{ "box": [226, 167, 251, 179], "text": "over" }],
+      "label": "Other",
+      "linking": [],
+      "id": 19
+    },
+    {
+      "text": "five",
+      "box": [255, 167, 274, 179],
+      "words": [{ "box": [255, 167, 274, 179], "text": "five" }],
+      "label": "Other",
+      "linking": [],
+      "id": 20
+    },
+    {
+      "text": "years",
+      "box": [278, 167, 308, 179],
+      "words": [{ "box": [278, 167, 308, 179], "text": "years" }],
+      "label": "Other",
+      "linking": [],
+      "id": 21
+    },
+    {
+      "text": "of",
+      "box": [312, 167, 323, 179],
+      "words": [{ "box": [312, 167, 323, 179], "text": "of" }],
+      "label": "Other",
+      "linking": [],
+      "id": 22
+    },
+    {
+      "text": "experience",
+      "box": [327, 167, 386, 179],
+      "words": [{ "box": [327, 167, 386, 179], "text": "experience" }],
+      "label": "Other",
+      "linking": [],
+      "id": 23
+    },
+    {
+      "text": "working",
+      "box": [390, 167, 434, 179],
+      "words": [{ "box": [390, 167, 434, 179], "text": "working" }],
+      "label": "Other",
+      "linking": [],
+      "id": 24
+    },
+    {
+      "text": "as",
+      "box": [438, 167, 450, 179],
+      "words": [{ "box": [438, 167, 450, 179], "text": "as" }],
+      "label": "Other",
+      "linking": [],
+      "id": 25
+    },
+    {
+      "text": "a",
+      "box": [454, 167, 461, 179],
+      "words": [{ "box": [454, 167, 461, 179], "text": "a" }],
+      "label": "Other",
+      "linking": [],
+      "id": 26
+    },
+    {
+      "text": "Digital",
+      "box": [465, 167, 500, 179],
+      "words": [{ "box": [465, 167, 500, 179], "text": "Digital" }],
+      "label": "Other",
+      "linking": [],
+      "id": 27
+    },
+    {
+      "text": "Web",
+      "box": [504, 167, 528, 179],
+      "words": [{ "box": [504, 167, 528, 179], "text": "Web" }],
+      "label": "Other",
+      "linking": [],
+      "id": 28
+    },
+    {
+      "text": "Content",
+      "box": [532, 167, 576, 179],
+      "words": [{ "box": [532, 167, 576, 179], "text": "Content" }],
+      "label": "Other",
+      "linking": [],
+      "id": 29
+    },
+    {
+      "text": "Editor,",
+      "box": [580, 167, 616, 179],
+      "words": [{ "box": [580, 167, 616, 179], "text": "Editor," }],
+      "label": "Other",
+      "linking": [],
+      "id": 30
+    },
+    {
+      "text": "Content",
+      "box": [620, 167, 663, 179],
+      "words": [{ "box": [620, 167, 663, 179], "text": "Content" }],
+      "label": "Other",
+      "linking": [],
+      "id": 31
+    },
+    {
+      "text": "Editor,",
+      "box": [87, 180, 124, 192],
+      "words": [{ "box": [87, 180, 124, 192], "text": "Editor," }],
+      "label": "Other",
+      "linking": [],
+      "id": 32
+    },
+    {
+      "text": "Digital",
+      "box": [128, 180, 162, 192],
+      "words": [{ "box": [128, 180, 162, 192], "text": "Digital" }],
+      "label": "Other",
+      "linking": [],
+      "id": 33
+    },
+    {
+      "text": "Copywriter,",
+      "box": [166, 180, 230, 192],
+      "words": [{ "box": [166, 180, 230, 192], "text": "Copywriter," }],
+      "label": "Other",
+      "linking": [],
+      "id": 34
+    },
+    {
+      "text": "and",
+      "box": [234, 180, 254, 192],
+      "words": [{ "box": [234, 180, 254, 192], "text": "and" }],
+      "label": "Other",
+      "linking": [],
+      "id": 35
+    },
+    {
+      "text": "Writer.",
+      "box": [258, 180, 296, 192],
+      "words": [{ "box": [258, 180, 296, 192], "text": "Writer." }],
+      "label": "Other",
+      "linking": [],
+      "id": 36
+    },
+    {
+      "text": "Experience",
+      "box": [300, 180, 360, 192],
+      "words": [{ "box": [300, 180, 360, 192], "text": "Experience" }],
+      "label": "Other",
+      "linking": [],
+      "id": 37
+    },
+    {
+      "text": "working",
+      "box": [364, 180, 408, 192],
+      "words": [{ "box": [364, 180, 408, 192], "text": "working" }],
+      "label": "Other",
+      "linking": [],
+      "id": 38
+    },
+    {
+      "text": "for",
+      "box": [412, 180, 427, 192],
+      "words": [{ "box": [412, 180, 427, 192], "text": "for" }],
+      "label": "Other",
+      "linking": [],
+      "id": 39
+    },
+    {
+      "text": "eCommerce",
+      "box": [431, 180, 497, 192],
+      "words": [{ "box": [431, 180, 497, 192], "text": "eCommerce" }],
+      "label": "Other",
+      "linking": [],
+      "id": 40
+    },
+    {
+      "text": "sites",
+      "box": [501, 180, 526, 192],
+      "words": [{ "box": [501, 180, 526, 192], "text": "sites" }],
+      "label": "Other",
+      "linking": [],
+      "id": 41
+    },
+    {
+      "text": "writing",
+      "box": [530, 180, 568, 192],
+      "words": [{ "box": [530, 180, 568, 192], "text": "writing" }],
+      "label": "Other",
+      "linking": [],
+      "id": 42
+    },
+    {
+      "text": "marketing",
+      "box": [572, 180, 627, 192],
+      "words": [{ "box": [572, 180, 627, 192], "text": "marketing" }],
+      "label": "Other",
+      "linking": [],
+      "id": 43
+    },
+    {
+      "text": "material\u2014email,",
+      "box": [87, 193, 177, 205],
+      "words": [{ "box": [87, 193, 177, 205], "text": "material\u2014email," }],
+      "label": "Other",
+      "linking": [],
+      "id": 44
+    },
+    {
+      "text": "site",
+      "box": [181, 193, 200, 205],
+      "words": [{ "box": [181, 193, 200, 205], "text": "site" }],
+      "label": "Other",
+      "linking": [],
+      "id": 45
+    },
+    {
+      "text": "banners,",
+      "box": [204, 193, 252, 205],
+      "words": [{ "box": [204, 193, 252, 205], "text": "banners," }],
+      "label": "Other",
+      "linking": [],
+      "id": 46
+    },
+    {
+      "text": "CMS,",
+      "box": [256, 193, 284, 205],
+      "words": [{ "box": [256, 193, 284, 205], "text": "CMS," }],
+      "label": "Other",
+      "linking": [],
+      "id": 47
+    },
+    {
+      "text": "homepages,",
+      "box": [288, 193, 356, 205],
+      "words": [{ "box": [288, 193, 356, 205], "text": "homepages," }],
+      "label": "Other",
+      "linking": [],
+      "id": 48
+    },
+    {
+      "text": "landing",
+      "box": [360, 193, 400, 205],
+      "words": [{ "box": [360, 193, 400, 205], "text": "landing" }],
+      "label": "Other",
+      "linking": [],
+      "id": 49
+    },
+    {
+      "text": "pages,",
+      "box": [404, 193, 440, 205],
+      "words": [{ "box": [404, 193, 440, 205], "text": "pages," }],
+      "label": "Other",
+      "linking": [],
+      "id": 50
+    },
+    {
+      "text": "newsletters,",
+      "box": [444, 193, 511, 205],
+      "words": [{ "box": [444, 193, 511, 205], "text": "newsletters," }],
+      "label": "Other",
+      "linking": [],
+      "id": 51
+    },
+    {
+      "text": "social",
+      "box": [515, 193, 546, 205],
+      "words": [{ "box": [515, 193, 546, 205], "text": "social" }],
+      "label": "Other",
+      "linking": [],
+      "id": 52
+    },
+    {
+      "text": "media,",
+      "box": [550, 193, 587, 205],
+      "words": [{ "box": [550, 193, 587, 205], "text": "media," }],
+      "label": "Other",
+      "linking": [],
+      "id": 53
+    },
+    {
+      "text": "and",
+      "box": [591, 193, 612, 205],
+      "words": [{ "box": [591, 193, 612, 205], "text": "and" }],
+      "label": "Other",
+      "linking": [],
+      "id": 54
+    },
+    {
+      "text": "site",
+      "box": [616, 193, 635, 205],
+      "words": [{ "box": [616, 193, 635, 205], "text": "site" }],
+      "label": "Other",
+      "linking": [],
+      "id": 55
+    },
+    {
+      "text": "articles.",
+      "box": [639, 193, 682, 205],
+      "words": [{ "box": [639, 193, 682, 205], "text": "articles." }],
+      "label": "Other",
+      "linking": [],
+      "id": 56
+    },
+    {
+      "text": "Also",
+      "box": [87, 206, 110, 218],
+      "words": [{ "box": [87, 206, 110, 218], "text": "Also" }],
+      "label": "Other",
+      "linking": [],
+      "id": 57
+    },
+    {
+      "text": "experience",
+      "box": [114, 206, 174, 218],
+      "words": [{ "box": [114, 206, 174, 218], "text": "experience" }],
+      "label": "Other",
+      "linking": [],
+      "id": 58
+    },
+    {
+      "text": "developing",
+      "box": [178, 206, 238, 218],
+      "words": [{ "box": [178, 206, 238, 218], "text": "developing" }],
+      "label": "Other",
+      "linking": [],
+      "id": 59
+    },
+    {
+      "text": "digital",
+      "box": [242, 206, 275, 218],
+      "words": [{ "box": [242, 206, 275, 218], "text": "digital" }],
+      "label": "Other",
+      "linking": [],
+      "id": 60
+    },
+    {
+      "text": "style",
+      "box": [279, 206, 305, 218],
+      "words": [{ "box": [279, 206, 305, 218], "text": "style" }],
+      "label": "Other",
+      "linking": [],
+      "id": 61
+    },
+    {
+      "text": "guides,",
+      "box": [309, 206, 348, 218],
+      "words": [{ "box": [309, 206, 348, 218], "text": "guides," }],
+      "label": "Other",
+      "linking": [],
+      "id": 62
+    },
+    {
+      "text": "editorial",
+      "box": [352, 206, 397, 218],
+      "words": [{ "box": [352, 206, 397, 218], "text": "editorial" }],
+      "label": "Other",
+      "linking": [],
+      "id": 63
+    },
+    {
+      "text": "brand",
+      "box": [401, 206, 433, 218],
+      "words": [{ "box": [401, 206, 433, 218], "text": "brand" }],
+      "label": "Other",
+      "linking": [],
+      "id": 64
+    },
+    {
+      "text": "guidelines,",
+      "box": [437, 206, 496, 218],
+      "words": [{ "box": [437, 206, 496, 218], "text": "guidelines," }],
+      "label": "Other",
+      "linking": [],
+      "id": 65
+    },
+    {
+      "text": "and",
+      "box": [500, 206, 520, 218],
+      "words": [{ "box": [500, 206, 520, 218], "text": "and" }],
+      "label": "Other",
+      "linking": [],
+      "id": 66
+    },
+    {
+      "text": "voice",
+      "box": [524, 206, 553, 218],
+      "words": [{ "box": [524, 206, 553, 218], "text": "voice" }],
+      "label": "Other",
+      "linking": [],
+      "id": 67
+    },
+    {
+      "text": "&",
+      "box": [557, 206, 565, 218],
+      "words": [{ "box": [557, 206, 565, 218], "text": "&" }],
+      "label": "Other",
+      "linking": [],
+      "id": 68
+    },
+    {
+      "text": "tone",
+      "box": [569, 206, 594, 218],
+      "words": [{ "box": [569, 206, 594, 218], "text": "tone" }],
+      "label": "Other",
+      "linking": [],
+      "id": 69
+    },
+    {
+      "text": "across",
+      "box": [598, 206, 633, 218],
+      "words": [{ "box": [598, 206, 633, 218], "text": "across" }],
+      "label": "Other",
+      "linking": [],
+      "id": 70
+    },
+    {
+      "text": "multiple",
+      "box": [637, 206, 680, 218],
+      "words": [{ "box": [637, 206, 680, 218], "text": "multiple" }],
+      "label": "Other",
+      "linking": [],
+      "id": 71
+    },
+    {
+      "text": "mediums.",
+      "box": [87, 219, 141, 231],
+      "words": [{ "box": [87, 219, 141, 231], "text": "mediums." }],
+      "label": "Other",
+      "linking": [],
+      "id": 72
+    },
+    {
+      "text": "Experience",
+      "box": [145, 219, 206, 231],
+      "words": [{ "box": [145, 219, 206, 231], "text": "Experience" }],
+      "label": "Other",
+      "linking": [],
+      "id": 73
+    },
+    {
+      "text": "with",
+      "box": [210, 219, 233, 231],
+      "words": [{ "box": [210, 219, 233, 231], "text": "with" }],
+      "label": "Other",
+      "linking": [],
+      "id": 74
+    },
+    {
+      "text": "keyword",
+      "box": [237, 219, 284, 231],
+      "words": [{ "box": [237, 219, 284, 231], "text": "keyword" }],
+      "label": "Other",
+      "linking": [],
+      "id": 75
+    },
+    {
+      "text": "implementation",
+      "box": [288, 219, 373, 231],
+      "words": [{ "box": [288, 219, 373, 231], "text": "implementation" }],
+      "label": "Other",
+      "linking": [],
+      "id": 76
+    },
+    {
+      "text": "and",
+      "box": [377, 219, 398, 231],
+      "words": [{ "box": [377, 219, 398, 231], "text": "and" }],
+      "label": "Other",
+      "linking": [],
+      "id": 77
+    },
+    {
+      "text": "SEO,",
+      "box": [402, 219, 429, 231],
+      "words": [{ "box": [402, 219, 429, 231], "text": "SEO," }],
+      "label": "Other",
+      "linking": [],
+      "id": 78
+    },
+    {
+      "text": "direct",
+      "box": [433, 219, 463, 231],
+      "words": [{ "box": [433, 219, 463, 231], "text": "direct" }],
+      "label": "Other",
+      "linking": [],
+      "id": 79
+    },
+    {
+      "text": "response",
+      "box": [467, 219, 517, 231],
+      "words": [{ "box": [467, 219, 517, 231], "text": "response" }],
+      "label": "Other",
+      "linking": [],
+      "id": 80
+    },
+    {
+      "text": "marketing,",
+      "box": [521, 219, 581, 231],
+      "words": [{ "box": [521, 219, 581, 231], "text": "marketing," }],
+      "label": "Other",
+      "linking": [],
+      "id": 81
+    },
+    {
+      "text": "vetting",
+      "box": [585, 219, 623, 231],
+      "words": [{ "box": [585, 219, 623, 231], "text": "vetting" }],
+      "label": "Other",
+      "linking": [],
+      "id": 82
+    },
+    {
+      "text": "and",
+      "box": [627, 219, 647, 231],
+      "words": [{ "box": [627, 219, 647, 231], "text": "and" }],
+      "label": "Other",
+      "linking": [],
+      "id": 83
+    },
+    {
+      "text": "editing",
+      "box": [87, 232, 125, 244],
+      "words": [{ "box": [87, 232, 125, 244], "text": "editing" }],
+      "label": "Other",
+      "linking": [],
+      "id": 84
+    },
+    {
+      "text": "legacy",
+      "box": [129, 232, 164, 244],
+      "words": [{ "box": [129, 232, 164, 244], "text": "legacy" }],
+      "label": "Other",
+      "linking": [],
+      "id": 85
+    },
+    {
+      "text": "content,",
+      "box": [168, 232, 213, 244],
+      "words": [{ "box": [168, 232, 213, 244], "text": "content," }],
+      "label": "Other",
+      "linking": [],
+      "id": 86
+    },
+    {
+      "text": "developing",
+      "box": [217, 232, 277, 244],
+      "words": [{ "box": [217, 232, 277, 244], "text": "developing" }],
+      "label": "Other",
+      "linking": [],
+      "id": 87
+    },
+    {
+      "text": "site",
+      "box": [281, 232, 300, 244],
+      "words": [{ "box": [281, 232, 300, 244], "text": "site" }],
+      "label": "Other",
+      "linking": [],
+      "id": 88
+    },
+    {
+      "text": "content",
+      "box": [304, 232, 346, 244],
+      "words": [{ "box": [304, 232, 346, 244], "text": "content" }],
+      "label": "Other",
+      "linking": [],
+      "id": 89
+    },
+    {
+      "text": "plans,",
+      "box": [350, 232, 383, 244],
+      "words": [{ "box": [350, 232, 383, 244], "text": "plans," }],
+      "label": "Other",
+      "linking": [],
+      "id": 90
+    },
+    {
+      "text": "and",
+      "box": [387, 232, 407, 244],
+      "words": [{ "box": [387, 232, 407, 244], "text": "and" }],
+      "label": "Other",
+      "linking": [],
+      "id": 91
+    },
+    {
+      "text": "overall",
+      "box": [411, 232, 448, 244],
+      "words": [{ "box": [411, 232, 448, 244], "text": "overall" }],
+      "label": "Other",
+      "linking": [],
+      "id": 92
+    },
+    {
+      "text": "line",
+      "box": [452, 232, 471, 244],
+      "words": [{ "box": [452, 232, 471, 244], "text": "line" }],
+      "label": "Other",
+      "linking": [],
+      "id": 93
+    },
+    {
+      "text": "editing",
+      "box": [475, 232, 513, 244],
+      "words": [{ "box": [475, 232, 513, 244], "text": "editing" }],
+      "label": "Other",
+      "linking": [],
+      "id": 94
+    },
+    {
+      "text": "and",
+      "box": [517, 232, 537, 244],
+      "words": [{ "box": [517, 232, 537, 244], "text": "and" }],
+      "label": "Other",
+      "linking": [],
+      "id": 95
+    },
+    {
+      "text": "proofing.",
+      "box": [541, 232, 591, 244],
+      "words": [{ "box": [541, 232, 591, 244], "text": "proofing." }],
+      "label": "Other",
+      "linking": [],
+      "id": 96
+    },
+    {
+      "text": "Skills",
+      "box": [87, 261, 115, 273],
+      "words": [{ "box": [87, 261, 115, 273], "text": "Skills" }],
+      "label": "Other",
+      "linking": [],
+      "id": 97
+    },
+    {
+      "text": "Writing,",
+      "box": [87, 274, 131, 286],
+      "words": [{ "box": [87, 274, 131, 286], "text": "Writing," }],
+      "label": "Other",
+      "linking": [],
+      "id": 98
+    },
+    {
+      "text": "editing,",
+      "box": [134, 274, 175, 286],
+      "words": [{ "box": [134, 274, 175, 286], "text": "editing," }],
+      "label": "Other",
+      "linking": [],
+      "id": 99
+    },
+    {
+      "text": "copywriting,",
+      "box": [177, 274, 245, 286],
+      "words": [{ "box": [177, 274, 245, 286], "text": "copywriting," }],
+      "label": "Other",
+      "linking": [],
+      "id": 100
+    },
+    {
+      "text": "research",
+      "box": [247, 274, 295, 286],
+      "words": [{ "box": [247, 274, 295, 286], "text": "research" }],
+      "label": "Other",
+      "linking": [],
+      "id": 101
+    },
+    {
+      "text": "and",
+      "box": [297, 274, 318, 286],
+      "words": [{ "box": [297, 274, 318, 286], "text": "and" }],
+      "label": "Other",
+      "linking": [],
+      "id": 102
+    },
+    {
+      "text": "proofing.",
+      "box": [320, 274, 370, 286],
+      "words": [{ "box": [320, 274, 370, 286], "text": "proofing." }],
+      "label": "Other",
+      "linking": [],
+      "id": 103
+    },
+    {
+      "text": "Knowledge",
+      "box": [374, 274, 435, 286],
+      "words": [{ "box": [374, 274, 435, 286], "text": "Knowledge" }],
+      "label": "Other",
+      "linking": [],
+      "id": 104
+    },
+    {
+      "text": "of",
+      "box": [437, 274, 448, 286],
+      "words": [{ "box": [437, 274, 448, 286], "text": "of" }],
+      "label": "Other",
+      "linking": [],
+      "id": 105
+    },
+    {
+      "text": "database",
+      "box": [451, 274, 501, 286],
+      "words": [{ "box": [451, 274, 501, 286], "text": "database" }],
+      "label": "Other",
+      "linking": [],
+      "id": 106
+    },
+    {
+      "text": "management",
+      "box": [503, 274, 576, 286],
+      "words": [{ "box": [503, 274, 576, 286], "text": "management" }],
+      "label": "Other",
+      "linking": [],
+      "id": 107
+    },
+    {
+      "text": "systems",
+      "box": [87, 290, 132, 301],
+      "words": [{ "box": [87, 290, 132, 301], "text": "systems" }],
+      "label": "Other",
+      "linking": [],
+      "id": 108
+    },
+    {
+      "text": "(DBMS),",
+      "box": [134, 290, 180, 301],
+      "words": [{ "box": [134, 290, 180, 301], "text": "(DBMS)," }],
+      "label": "Other",
+      "linking": [],
+      "id": 109
+    },
+    {
+      "text": "web",
+      "box": [183, 290, 203, 301],
+      "words": [{ "box": [183, 290, 203, 301], "text": "web" }],
+      "label": "Other",
+      "linking": [],
+      "id": 110
+    },
+    {
+      "text": "content",
+      "box": [204, 290, 246, 301],
+      "words": [{ "box": [204, 290, 246, 301], "text": "content" }],
+      "label": "Other",
+      "linking": [],
+      "id": 111
+    },
+    {
+      "text": "management",
+      "box": [249, 290, 321, 301],
+      "words": [{ "box": [249, 290, 321, 301], "text": "management" }],
+      "label": "Other",
+      "linking": [],
+      "id": 112
+    },
+    {
+      "text": "systems",
+      "box": [324, 290, 368, 301],
+      "words": [{ "box": [324, 290, 368, 301], "text": "systems" }],
+      "label": "Other",
+      "linking": [],
+      "id": 113
+    },
+    {
+      "text": "(WCMS)",
+      "box": [371, 290, 416, 301],
+      "words": [{ "box": [371, 290, 416, 301], "text": "(WCMS)" }],
+      "label": "Other",
+      "linking": [],
+      "id": 114
+    },
+    {
+      "text": "such",
+      "box": [419, 290, 444, 301],
+      "words": [{ "box": [419, 290, 444, 301], "text": "such" }],
+      "label": "Other",
+      "linking": [],
+      "id": 115
+    },
+    {
+      "text": "as",
+      "box": [447, 290, 459, 301],
+      "words": [{ "box": [447, 290, 459, 301], "text": "as" }],
+      "label": "Other",
+      "linking": [],
+      "id": 116
+    },
+    {
+      "text": "Alchemy,",
+      "box": [461, 290, 512, 301],
+      "words": [{ "box": [461, 290, 512, 301], "text": "Alchemy," }],
+      "label": "Other",
+      "linking": [],
+      "id": 117
+    },
+    {
+      "text": "search",
+      "box": [515, 290, 551, 301],
+      "words": [{ "box": [515, 290, 551, 301], "text": "search" }],
+      "label": "Other",
+      "linking": [],
+      "id": 118
+    },
+    {
+      "text": "engine",
+      "box": [553, 290, 590, 301],
+      "words": [{ "box": [553, 290, 590, 301], "text": "engine" }],
+      "label": "Other",
+      "linking": [],
+      "id": 119
+    },
+    {
+      "text": "optimization",
+      "box": [593, 290, 660, 301],
+      "words": [{ "box": [593, 290, 660, 301], "text": "optimization" }],
+      "label": "Other",
+      "linking": [],
+      "id": 120
+    },
+    {
+      "text": "(SEO),",
+      "box": [87, 305, 124, 317],
+      "words": [{ "box": [87, 305, 124, 317], "text": "(SEO)," }],
+      "label": "Other",
+      "linking": [],
+      "id": 121
+    },
+    {
+      "text": "keyword",
+      "box": [128, 305, 174, 317],
+      "words": [{ "box": [128, 305, 174, 317], "text": "keyword" }],
+      "label": "Other",
+      "linking": [],
+      "id": 122
+    },
+    {
+      "text": "implementation,",
+      "box": [177, 305, 267, 317],
+      "words": [{ "box": [177, 305, 267, 317], "text": "implementation," }],
+      "label": "Other",
+      "linking": [],
+      "id": 123
+    },
+    {
+      "text": "and",
+      "box": [269, 305, 290, 317],
+      "words": [{ "box": [269, 305, 290, 317], "text": "and" }],
+      "label": "Other",
+      "linking": [],
+      "id": 124
+    },
+    {
+      "text": "social",
+      "box": [292, 305, 323, 317],
+      "words": [{ "box": [292, 305, 323, 317], "text": "social" }],
+      "label": "Other",
+      "linking": [],
+      "id": 125
+    },
+    {
+      "text": "media",
+      "box": [325, 305, 359, 317],
+      "words": [{ "box": [325, 305, 359, 317], "text": "media" }],
+      "label": "Other",
+      "linking": [],
+      "id": 126
+    },
+    {
+      "text": "content",
+      "box": [362, 305, 403, 317],
+      "words": [{ "box": [362, 305, 403, 317], "text": "content" }],
+      "label": "Other",
+      "linking": [],
+      "id": 127
+    },
+    {
+      "text": "writing,",
+      "box": [406, 305, 447, 317],
+      "words": [{ "box": [406, 305, 447, 317], "text": "writing," }],
+      "label": "Other",
+      "linking": [],
+      "id": 128
+    },
+    {
+      "text": "publishing,",
+      "box": [450, 305, 510, 317],
+      "words": [{ "box": [450, 305, 510, 317], "text": "publishing," }],
+      "label": "Other",
+      "linking": [],
+      "id": 129
+    },
+    {
+      "text": "and",
+      "box": [512, 305, 533, 317],
+      "words": [{ "box": [512, 305, 533, 317], "text": "and" }],
+      "label": "Other",
+      "linking": [],
+      "id": 130
+    },
+    {
+      "text": "tracking",
+      "box": [536, 305, 580, 317],
+      "words": [{ "box": [536, 305, 580, 317], "text": "tracking" }],
+      "label": "Other",
+      "linking": [],
+      "id": 131
+    },
+    {
+      "text": "(Facebook",
+      "box": [582, 305, 640, 317],
+      "words": [{ "box": [582, 305, 640, 317], "text": "(Facebook" }],
+      "label": "Other",
+      "linking": [],
+      "id": 132
+    },
+    {
+      "text": "and",
+      "box": [642, 305, 663, 317],
+      "words": [{ "box": [642, 305, 663, 317], "text": "and" }],
+      "label": "Other",
+      "linking": [],
+      "id": 133
+    },
+    {
+      "text": "Twitter",
+      "box": [87, 320, 126, 332],
+      "words": [{ "box": [87, 320, 126, 332], "text": "Twitter" }],
+      "label": "Other",
+      "linking": [],
+      "id": 134
+    },
+    {
+      "text": "using",
+      "box": [130, 320, 160, 332],
+      "words": [{ "box": [130, 320, 160, 332], "text": "using" }],
+      "label": "Other",
+      "linking": [],
+      "id": 135
+    },
+    {
+      "text": "Raven",
+      "box": [162, 320, 197, 332],
+      "words": [{ "box": [162, 320, 197, 332], "text": "Raven" }],
+      "label": "Other",
+      "linking": [],
+      "id": 136
+    },
+    {
+      "text": "platform).",
+      "box": [199, 320, 255, 332],
+      "words": [{ "box": [199, 320, 255, 332], "text": "platform)." }],
+      "label": "Other",
+      "linking": [],
+      "id": 137
+    },
+    {
+      "text": "Knowledge",
+      "box": [260, 320, 321, 332],
+      "words": [{ "box": [260, 320, 321, 332], "text": "Knowledge" }],
+      "label": "Other",
+      "linking": [],
+      "id": 138
+    },
+    {
+      "text": "of",
+      "box": [323, 320, 334, 332],
+      "words": [{ "box": [323, 320, 334, 332], "text": "of" }],
+      "label": "Other",
+      "linking": [],
+      "id": 139
+    },
+    {
+      "text": "writing",
+      "box": [337, 320, 375, 332],
+      "words": [{ "box": [337, 320, 375, 332], "text": "writing" }],
+      "label": "Other",
+      "linking": [],
+      "id": 140
+    },
+    {
+      "text": "for",
+      "box": [377, 320, 393, 332],
+      "words": [{ "box": [377, 320, 393, 332], "text": "for" }],
+      "label": "Other",
+      "linking": [],
+      "id": 141
+    },
+    {
+      "text": "eCommerce",
+      "box": [395, 320, 461, 332],
+      "words": [{ "box": [395, 320, 461, 332], "text": "eCommerce" }],
+      "label": "Other",
+      "linking": [],
+      "id": 142
+    },
+    {
+      "text": "marketing,",
+      "box": [464, 320, 523, 332],
+      "words": [{ "box": [464, 320, 523, 332], "text": "marketing," }],
+      "label": "Other",
+      "linking": [],
+      "id": 143
+    },
+    {
+      "text": "direct",
+      "box": [526, 320, 557, 332],
+      "words": [{ "box": [526, 320, 557, 332], "text": "direct" }],
+      "label": "Other",
+      "linking": [],
+      "id": 144
+    },
+    {
+      "text": "response,",
+      "box": [560, 320, 613, 332],
+      "words": [{ "box": [560, 320, 613, 332], "text": "response," }],
+      "label": "Other",
+      "linking": [],
+      "id": 145
+    },
+    {
+      "text": "and",
+      "box": [617, 320, 638, 332],
+      "words": [{ "box": [617, 320, 638, 332], "text": "and" }],
+      "label": "Other",
+      "linking": [],
+      "id": 146
+    },
+    {
+      "text": "marketing",
+      "box": [87, 335, 143, 347],
+      "words": [{ "box": [87, 335, 143, 347], "text": "marketing" }],
+      "label": "Other",
+      "linking": [],
+      "id": 147
+    },
+    {
+      "text": "materials",
+      "box": [146, 335, 196, 347],
+      "words": [{ "box": [146, 335, 196, 347], "text": "materials" }],
+      "label": "Other",
+      "linking": [],
+      "id": 148
+    },
+    {
+      "text": "with",
+      "box": [199, 335, 222, 347],
+      "words": [{ "box": [199, 335, 222, 347], "text": "with" }],
+      "label": "Other",
+      "linking": [],
+      "id": 149
+    },
+    {
+      "text": "advanced",
+      "box": [225, 335, 278, 347],
+      "words": [{ "box": [225, 335, 278, 347], "text": "advanced" }],
+      "label": "Other",
+      "linking": [],
+      "id": 150
+    },
+    {
+      "text": "knowledge",
+      "box": [280, 335, 340, 347],
+      "words": [{ "box": [280, 335, 340, 347], "text": "knowledge" }],
+      "label": "Other",
+      "linking": [],
+      "id": 151
+    },
+    {
+      "text": "of",
+      "box": [342, 335, 353, 347],
+      "words": [{ "box": [342, 335, 353, 347], "text": "of" }],
+      "label": "Other",
+      "linking": [],
+      "id": 152
+    },
+    {
+      "text": "Microsoft",
+      "box": [356, 335, 406, 347],
+      "words": [{ "box": [356, 335, 406, 347], "text": "Microsoft" }],
+      "label": "Other",
+      "linking": [],
+      "id": 153
+    },
+    {
+      "text": "Office,",
+      "box": [409, 335, 445, 347],
+      "words": [{ "box": [409, 335, 445, 347], "text": "Office," }],
+      "label": "Other",
+      "linking": [],
+      "id": 154
+    },
+    {
+      "text": "and",
+      "box": [448, 335, 468, 347],
+      "words": [{ "box": [448, 335, 468, 347], "text": "and" }],
+      "label": "Other",
+      "linking": [],
+      "id": 155
+    },
+    {
+      "text": "working",
+      "box": [471, 335, 514, 347],
+      "words": [{ "box": [471, 335, 514, 347], "text": "working" }],
+      "label": "Other",
+      "linking": [],
+      "id": 156
+    },
+    {
+      "text": "knowledge",
+      "box": [517, 335, 577, 347],
+      "words": [{ "box": [517, 335, 577, 347], "text": "knowledge" }],
+      "label": "Other",
+      "linking": [],
+      "id": 157
+    },
+    {
+      "text": "of",
+      "box": [579, 335, 590, 347],
+      "words": [{ "box": [579, 335, 590, 347], "text": "of" }],
+      "label": "Other",
+      "linking": [],
+      "id": 158
+    },
+    {
+      "text": "blogging",
+      "box": [593, 335, 640, 347],
+      "words": [{ "box": [593, 335, 640, 347], "text": "blogging" }],
+      "label": "Other",
+      "linking": [],
+      "id": 159
+    },
+    {
+      "text": "platforms.",
+      "box": [87, 350, 143, 362],
+      "words": [{ "box": [87, 350, 143, 362], "text": "platforms." }],
+      "label": "Other",
+      "linking": [],
+      "id": 160
+    },
+    {
+      "text": "Relevant",
+      "box": [87, 383, 135, 395],
+      "words": [{ "box": [87, 383, 135, 395], "text": "Relevant" }],
+      "label": "Other",
+      "linking": [],
+      "id": 161
+    },
+    {
+      "text": "Experience",
+      "box": [139, 383, 200, 395],
+      "words": [{ "box": [139, 383, 200, 395], "text": "Experience" }],
+      "label": "Other",
+      "linking": [],
+      "id": 162
+    },
+    {
+      "text": "Gaiam,",
+      "box": [87, 400, 131, 412],
+      "words": [{ "box": [87, 400, 131, 412], "text": "Gaiam," }],
+      "label": "Other",
+      "linking": [],
+      "id": 163
+    },
+    {
+      "text": "Louisville,",
+      "box": [135, 400, 189, 412],
+      "words": [{ "box": [135, 400, 189, 412], "text": "Louisville," }],
+      "label": "Other",
+      "linking": [],
+      "id": 164
+    },
+    {
+      "text": "CO",
+      "box": [193, 400, 209, 412],
+      "words": [{ "box": [193, 400, 209, 412], "text": "CO" }],
+      "label": "Other",
+      "linking": [],
+      "id": 165
+    },
+    {
+      "text": "Contract",
+      "box": [87, 416, 142, 428],
+      "words": [{ "box": [87, 416, 142, 428], "text": "Contract" }],
+      "label": "Other",
+      "linking": [],
+      "id": 166
+    },
+    {
+      "text": "Copywriter",
+      "box": [145, 416, 215, 428],
+      "words": [{ "box": [145, 416, 215, 428], "text": "Copywriter" }],
+      "label": "Other",
+      "linking": [],
+      "id": 167
+    },
+    {
+      "text": "September",
+      "box": [87, 433, 147, 445],
+      "words": [{ "box": [87, 433, 147, 445], "text": "September" }],
+      "label": "Other",
+      "linking": [],
+      "id": 168
+    },
+    {
+      "text": "2014",
+      "box": [151, 433, 179, 445],
+      "words": [{ "box": [151, 433, 179, 445], "text": "2014" }],
+      "label": "Other",
+      "linking": [],
+      "id": 169
+    },
+    {
+      "text": "\u2013",
+      "box": [183, 433, 190, 445],
+      "words": [{ "box": [183, 433, 190, 445], "text": "\u2013" }],
+      "label": "Other",
+      "linking": [],
+      "id": 170
+    },
+    {
+      "text": "Current",
+      "box": [194, 433, 235, 445],
+      "words": [{ "box": [194, 433, 235, 445], "text": "Current" }],
+      "label": "Other",
+      "linking": [],
+      "id": 171
+    },
+    {
+      "text": "\u23aa\uf8f4",
+      "box": [113, 450, 119, 462],
+      "words": [{ "box": [113, 450, 119, 462], "text": "\u23aa\uf8f4" }],
+      "label": "Other",
+      "linking": [],
+      "id": 172
+    },
+    {
+      "text": "\u23aa\uf8f4",
+      "box": [113, 480, 119, 492],
+      "words": [{ "box": [113, 480, 119, 492], "text": "\u23aa\uf8f4" }],
+      "label": "Other",
+      "linking": [],
+      "id": 173
+    },
+    {
+      "text": "\u23aa\uf8f4",
+      "box": [113, 510, 119, 522],
+      "words": [{ "box": [113, 510, 119, 522], "text": "\u23aa\uf8f4" }],
+      "label": "Other",
+      "linking": [],
+      "id": 174
+    },
+    {
+      "text": "\u23aa\uf8f4",
+      "box": [113, 540, 119, 552],
+      "words": [{ "box": [113, 540, 119, 552], "text": "\u23aa\uf8f4" }],
+      "label": "Other",
+      "linking": [],
+      "id": 175
+    },
+    {
+      "text": "\u23aa\uf8f4",
+      "box": [113, 570, 119, 582],
+      "words": [{ "box": [113, 570, 119, 582], "text": "\u23aa\uf8f4" }],
+      "label": "Other",
+      "linking": [],
+      "id": 176
+    },
+    {
+      "text": "Worked",
+      "box": [136, 449, 177, 460],
+      "words": [{ "box": [136, 449, 177, 460], "text": "Worked" }],
+      "label": "Other",
+      "linking": [],
+      "id": 177
+    },
+    {
+      "text": "to",
+      "box": [181, 449, 192, 460],
+      "words": [{ "box": [181, 449, 192, 460], "text": "to" }],
+      "label": "Other",
+      "linking": [],
+      "id": 178
+    },
+    {
+      "text": "develop",
+      "box": [196, 449, 237, 460],
+      "words": [{ "box": [196, 449, 237, 460], "text": "develop" }],
+      "label": "Other",
+      "linking": [],
+      "id": 179
+    },
+    {
+      "text": "a",
+      "box": [242, 449, 248, 460],
+      "words": [{ "box": [242, 449, 248, 460], "text": "a" }],
+      "label": "Other",
+      "linking": [],
+      "id": 180
+    },
+    {
+      "text": "digital",
+      "box": [253, 449, 285, 460],
+      "words": [{ "box": [253, 449, 285, 460], "text": "digital" }],
+      "label": "Other",
+      "linking": [],
+      "id": 181
+    },
+    {
+      "text": "copy",
+      "box": [289, 449, 314, 460],
+      "words": [{ "box": [289, 449, 314, 460], "text": "copy" }],
+      "label": "Other",
+      "linking": [],
+      "id": 182
+    },
+    {
+      "text": "style",
+      "box": [318, 449, 343, 460],
+      "words": [{ "box": [318, 449, 343, 460], "text": "style" }],
+      "label": "Other",
+      "linking": [],
+      "id": 183
+    },
+    {
+      "text": "guide",
+      "box": [347, 449, 376, 460],
+      "words": [{ "box": [347, 449, 376, 460], "text": "guide" }],
+      "label": "Other",
+      "linking": [],
+      "id": 184
+    },
+    {
+      "text": "and",
+      "box": [381, 449, 400, 460],
+      "words": [{ "box": [381, 449, 400, 460], "text": "and" }],
+      "label": "Other",
+      "linking": [],
+      "id": 185
+    },
+    {
+      "text": "work",
+      "box": [405, 449, 431, 460],
+      "words": [{ "box": [405, 449, 431, 460], "text": "work" }],
+      "label": "Other",
+      "linking": [],
+      "id": 186
+    },
+    {
+      "text": "with",
+      "box": [435, 449, 458, 460],
+      "words": [{ "box": [435, 449, 458, 460], "text": "with" }],
+      "label": "Other",
+      "linking": [],
+      "id": 187
+    },
+    {
+      "text": "Creative",
+      "box": [462, 449, 505, 460],
+      "words": [{ "box": [462, 449, 505, 460], "text": "Creative" }],
+      "label": "Other",
+      "linking": [],
+      "id": 188
+    },
+    {
+      "text": "Director",
+      "box": [510, 449, 552, 460],
+      "words": [{ "box": [510, 449, 552, 460], "text": "Director" }],
+      "label": "Other",
+      "linking": [],
+      "id": 189
+    },
+    {
+      "text": "to",
+      "box": [556, 449, 567, 460],
+      "words": [{ "box": [556, 449, 567, 460], "text": "to" }],
+      "label": "Other",
+      "linking": [],
+      "id": 190
+    },
+    {
+      "text": "revise",
+      "box": [571, 449, 602, 460],
+      "words": [{ "box": [571, 449, 602, 460], "text": "revise" }],
+      "label": "Other",
+      "linking": [],
+      "id": 191
+    },
+    {
+      "text": "creative",
+      "box": [607, 449, 648, 460],
+      "words": [{ "box": [607, 449, 648, 460], "text": "creative" }],
+      "label": "Other",
+      "linking": [],
+      "id": 192
+    },
+    {
+      "text": "process",
+      "box": [136, 463, 176, 475],
+      "words": [{ "box": [136, 463, 176, 475], "text": "process" }],
+      "label": "Other",
+      "linking": [],
+      "id": 193
+    },
+    {
+      "text": "and",
+      "box": [180, 463, 199, 475],
+      "words": [{ "box": [180, 463, 199, 475], "text": "and" }],
+      "label": "Other",
+      "linking": [],
+      "id": 194
+    },
+    {
+      "text": "creative",
+      "box": [203, 463, 245, 475],
+      "words": [{ "box": [203, 463, 245, 475], "text": "creative" }],
+      "label": "Other",
+      "linking": [],
+      "id": 195
+    },
+    {
+      "text": "review",
+      "box": [248, 463, 283, 475],
+      "words": [{ "box": [248, 463, 283, 475], "text": "review" }],
+      "label": "Other",
+      "linking": [],
+      "id": 196
+    },
+    {
+      "text": "process.",
+      "box": [287, 463, 330, 475],
+      "words": [{ "box": [287, 463, 330, 475], "text": "process." }],
+      "label": "Other",
+      "linking": [],
+      "id": 197
+    },
+    {
+      "text": "Developed",
+      "box": [136, 479, 192, 490],
+      "words": [{ "box": [136, 479, 192, 490], "text": "Developed" }],
+      "label": "Other",
+      "linking": [],
+      "id": 198
+    },
+    {
+      "text": "new",
+      "box": [196, 479, 218, 490],
+      "words": [{ "box": [196, 479, 218, 490], "text": "new" }],
+      "label": "Other",
+      "linking": [],
+      "id": 199
+    },
+    {
+      "text": "style,",
+      "box": [223, 479, 251, 490],
+      "words": [{ "box": [223, 479, 251, 490], "text": "style," }],
+      "label": "Other",
+      "linking": [],
+      "id": 200
+    },
+    {
+      "text": "tone,",
+      "box": [255, 479, 282, 490],
+      "words": [{ "box": [255, 479, 282, 490], "text": "tone," }],
+      "label": "Other",
+      "linking": [],
+      "id": 201
+    },
+    {
+      "text": "and",
+      "box": [287, 479, 306, 490],
+      "words": [{ "box": [287, 479, 306, 490], "text": "and" }],
+      "label": "Other",
+      "linking": [],
+      "id": 202
+    },
+    {
+      "text": "voice",
+      "box": [311, 479, 338, 490],
+      "words": [{ "box": [311, 479, 338, 490], "text": "voice" }],
+      "label": "Other",
+      "linking": [],
+      "id": 203
+    },
+    {
+      "text": "behind",
+      "box": [342, 479, 378, 490],
+      "words": [{ "box": [342, 479, 378, 490], "text": "behind" }],
+      "label": "Other",
+      "linking": [],
+      "id": 204
+    },
+    {
+      "text": "website,",
+      "box": [383, 479, 426, 490],
+      "words": [{ "box": [383, 479, 426, 490], "text": "website," }],
+      "label": "Other",
+      "linking": [],
+      "id": 205
+    },
+    {
+      "text": "product",
+      "box": [431, 479, 471, 490],
+      "words": [{ "box": [431, 479, 471, 490], "text": "product" }],
+      "label": "Other",
+      "linking": [],
+      "id": 206
+    },
+    {
+      "text": "copy,",
+      "box": [476, 479, 504, 490],
+      "words": [{ "box": [476, 479, 504, 490], "text": "copy," }],
+      "label": "Other",
+      "linking": [],
+      "id": 207
+    },
+    {
+      "text": "and",
+      "box": [509, 479, 528, 490],
+      "words": [{ "box": [509, 479, 528, 490], "text": "and" }],
+      "label": "Other",
+      "linking": [],
+      "id": 208
+    },
+    {
+      "text": "social",
+      "box": [533, 479, 562, 490],
+      "words": [{ "box": [533, 479, 562, 490], "text": "social" }],
+      "label": "Other",
+      "linking": [],
+      "id": 209
+    },
+    {
+      "text": "copy",
+      "box": [566, 479, 591, 490],
+      "words": [{ "box": [566, 479, 591, 490], "text": "copy" }],
+      "label": "Other",
+      "linking": [],
+      "id": 210
+    },
+    {
+      "text": "as",
+      "box": [595, 479, 607, 490],
+      "words": [{ "box": [595, 479, 607, 490], "text": "as" }],
+      "label": "Other",
+      "linking": [],
+      "id": 211
+    },
+    {
+      "text": "market",
+      "box": [612, 479, 648, 490],
+      "words": [{ "box": [612, 479, 648, 490], "text": "market" }],
+      "label": "Other",
+      "linking": [],
+      "id": 212
+    },
+    {
+      "text": "demographic",
+      "box": [136, 494, 204, 505],
+      "words": [{ "box": [136, 494, 204, 505], "text": "demographic" }],
+      "label": "Other",
+      "linking": [],
+      "id": 213
+    },
+    {
+      "text": "has",
+      "box": [208, 494, 226, 505],
+      "words": [{ "box": [208, 494, 226, 505], "text": "has" }],
+      "label": "Other",
+      "linking": [],
+      "id": 214
+    },
+    {
+      "text": "changed.",
+      "box": [230, 494, 279, 505],
+      "words": [{ "box": [230, 494, 279, 505], "text": "changed." }],
+      "label": "Other",
+      "linking": [],
+      "id": 215
+    },
+    {
+      "text": "Updated",
+      "box": [136, 509, 180, 521],
+      "words": [{ "box": [136, 509, 180, 521], "text": "Updated" }],
+      "label": "Other",
+      "linking": [],
+      "id": 216
+    },
+    {
+      "text": "~300",
+      "box": [186, 509, 214, 521],
+      "words": [{ "box": [186, 509, 214, 521], "text": "~300" }],
+      "label": "Other",
+      "linking": [],
+      "id": 217
+    },
+    {
+      "text": "product",
+      "box": [220, 509, 260, 521],
+      "words": [{ "box": [220, 509, 260, 521], "text": "product" }],
+      "label": "Other",
+      "linking": [],
+      "id": 218
+    },
+    {
+      "text": "descriptions",
+      "box": [265, 509, 328, 521],
+      "words": [{ "box": [265, 509, 328, 521], "text": "descriptions" }],
+      "label": "Other",
+      "linking": [],
+      "id": 219
+    },
+    {
+      "text": "across",
+      "box": [334, 509, 367, 521],
+      "words": [{ "box": [334, 509, 367, 521], "text": "across" }],
+      "label": "Other",
+      "linking": [],
+      "id": 220
+    },
+    {
+      "text": "Gaiam.com",
+      "box": [372, 509, 431, 521],
+      "words": [{ "box": [372, 509, 431, 521], "text": "Gaiam.com" }],
+      "label": "Other",
+      "linking": [],
+      "id": 221
+    },
+    {
+      "text": "and",
+      "box": [437, 509, 456, 521],
+      "words": [{ "box": [437, 509, 456, 521], "text": "and" }],
+      "label": "Other",
+      "linking": [],
+      "id": 222
+    },
+    {
+      "text": "GaiamPro.com",
+      "box": [462, 509, 538, 521],
+      "words": [{ "box": [462, 509, 538, 521], "text": "GaiamPro.com" }],
+      "label": "Other",
+      "linking": [],
+      "id": 223
+    },
+    {
+      "text": "with",
+      "box": [544, 509, 566, 521],
+      "words": [{ "box": [544, 509, 566, 521], "text": "with" }],
+      "label": "Other",
+      "linking": [],
+      "id": 224
+    },
+    {
+      "text": "updated",
+      "box": [572, 509, 615, 521],
+      "words": [{ "box": [572, 509, 615, 521], "text": "updated" }],
+      "label": "Other",
+      "linking": [],
+      "id": 225
+    },
+    {
+      "text": "copy,",
+      "box": [620, 509, 648, 521],
+      "words": [{ "box": [620, 509, 648, 521], "text": "copy," }],
+      "label": "Other",
+      "linking": [],
+      "id": 226
+    },
+    {
+      "text": "formatting,",
+      "box": [136, 524, 195, 535],
+      "words": [{ "box": [136, 524, 195, 535], "text": "formatting," }],
+      "label": "Other",
+      "linking": [],
+      "id": 227
+    },
+    {
+      "text": "and",
+      "box": [199, 524, 218, 535],
+      "words": [{ "box": [199, 524, 218, 535], "text": "and" }],
+      "label": "Other",
+      "linking": [],
+      "id": 228
+    },
+    {
+      "text": "voice.",
+      "box": [222, 524, 253, 535],
+      "words": [{ "box": [222, 524, 253, 535], "text": "voice." }],
+      "label": "Other",
+      "linking": [],
+      "id": 229
+    },
+    {
+      "text": "Wrote",
+      "box": [136, 539, 168, 551],
+      "words": [{ "box": [136, 539, 168, 551], "text": "Wrote" }],
+      "label": "Other",
+      "linking": [],
+      "id": 230
+    },
+    {
+      "text": "copy",
+      "box": [172, 539, 196, 551],
+      "words": [{ "box": [172, 539, 196, 551], "text": "copy" }],
+      "label": "Other",
+      "linking": [],
+      "id": 231
+    },
+    {
+      "text": "for",
+      "box": [200, 539, 215, 551],
+      "words": [{ "box": [200, 539, 215, 551], "text": "for" }],
+      "label": "Other",
+      "linking": [],
+      "id": 232
+    },
+    {
+      "text": "homepages,",
+      "box": [219, 539, 283, 551],
+      "words": [{ "box": [219, 539, 283, 551], "text": "homepages," }],
+      "label": "Other",
+      "linking": [],
+      "id": 233
+    },
+    {
+      "text": "social,",
+      "box": [287, 539, 320, 551],
+      "words": [{ "box": [287, 539, 320, 551], "text": "social," }],
+      "label": "Other",
+      "linking": [],
+      "id": 234
+    },
+    {
+      "text": "and",
+      "box": [323, 539, 343, 551],
+      "words": [{ "box": [323, 539, 343, 551], "text": "and" }],
+      "label": "Other",
+      "linking": [],
+      "id": 235
+    },
+    {
+      "text": "email",
+      "box": [347, 539, 375, 551],
+      "words": [{ "box": [347, 539, 375, 551], "text": "email" }],
+      "label": "Other",
+      "linking": [],
+      "id": 236
+    },
+    {
+      "text": "campaigns",
+      "box": [379, 539, 435, 551],
+      "words": [{ "box": [379, 539, 435, 551], "text": "campaigns" }],
+      "label": "Other",
+      "linking": [],
+      "id": 237
+    },
+    {
+      "text": "softly",
+      "box": [439, 539, 467, 551],
+      "words": [{ "box": [439, 539, 467, 551], "text": "softly" }],
+      "label": "Other",
+      "linking": [],
+      "id": 238
+    },
+    {
+      "text": "incorporating",
+      "box": [471, 539, 540, 551],
+      "words": [{ "box": [471, 539, 540, 551], "text": "incorporating" }],
+      "label": "Other",
+      "linking": [],
+      "id": 239
+    },
+    {
+      "text": "new",
+      "box": [544, 539, 566, 551],
+      "words": [{ "box": [544, 539, 566, 551], "text": "new" }],
+      "label": "Other",
+      "linking": [],
+      "id": 240
+    },
+    {
+      "text": "style,",
+      "box": [570, 539, 598, 551],
+      "words": [{ "box": [570, 539, 598, 551], "text": "style," }],
+      "label": "Other",
+      "linking": [],
+      "id": 241
+    },
+    {
+      "text": "tone",
+      "box": [602, 539, 625, 551],
+      "words": [{ "box": [602, 539, 625, 551], "text": "tone" }],
+      "label": "Other",
+      "linking": [],
+      "id": 242
+    },
+    {
+      "text": "and",
+      "box": [629, 539, 648, 551],
+      "words": [{ "box": [629, 539, 648, 551], "text": "and" }],
+      "label": "Other",
+      "linking": [],
+      "id": 243
+    },
+    {
+      "text": "voice",
+      "box": [136, 554, 163, 566],
+      "words": [{ "box": [136, 554, 163, 566], "text": "voice" }],
+      "label": "Other",
+      "linking": [],
+      "id": 244
+    },
+    {
+      "text": "while",
+      "box": [167, 554, 194, 566],
+      "words": [{ "box": [167, 554, 194, 566], "text": "while" }],
+      "label": "Other",
+      "linking": [],
+      "id": 245
+    },
+    {
+      "text": "shifting",
+      "box": [198, 554, 237, 566],
+      "words": [{ "box": [198, 554, 237, 566], "text": "shifting" }],
+      "label": "Other",
+      "linking": [],
+      "id": 246
+    },
+    {
+      "text": "away",
+      "box": [240, 554, 268, 566],
+      "words": [{ "box": [240, 554, 268, 566], "text": "away" }],
+      "label": "Other",
+      "linking": [],
+      "id": 247
+    },
+    {
+      "text": "from",
+      "box": [272, 554, 296, 566],
+      "words": [{ "box": [272, 554, 296, 566], "text": "from" }],
+      "label": "Other",
+      "linking": [],
+      "id": 248
+    },
+    {
+      "text": "old",
+      "box": [300, 554, 316, 566],
+      "words": [{ "box": [300, 554, 316, 566], "text": "old" }],
+      "label": "Other",
+      "linking": [],
+      "id": 249
+    },
+    {
+      "text": "demographic",
+      "box": [320, 554, 388, 566],
+      "words": [{ "box": [320, 554, 388, 566], "text": "demographic" }],
+      "label": "Other",
+      "linking": [],
+      "id": 250
+    },
+    {
+      "text": "and",
+      "box": [392, 554, 411, 566],
+      "words": [{ "box": [392, 554, 411, 566], "text": "and" }],
+      "label": "Other",
+      "linking": [],
+      "id": 251
+    },
+    {
+      "text": "audience.",
+      "box": [415, 554, 466, 566],
+      "words": [{ "box": [415, 554, 466, 566], "text": "audience." }],
+      "label": "Other",
+      "linking": [],
+      "id": 252
+    },
+    {
+      "text": "Worked",
+      "box": [136, 569, 177, 581],
+      "words": [{ "box": [136, 569, 177, 581], "text": "Worked" }],
+      "label": "Other",
+      "linking": [],
+      "id": 253
+    },
+    {
+      "text": "as",
+      "box": [185, 569, 196, 581],
+      "words": [{ "box": [185, 569, 196, 581], "text": "as" }],
+      "label": "Other",
+      "linking": [],
+      "id": 254
+    },
+    {
+      "text": "Editor",
+      "box": [205, 569, 236, 581],
+      "words": [{ "box": [205, 569, 236, 581], "text": "Editor" }],
+      "label": "Other",
+      "linking": [],
+      "id": 255
+    },
+    {
+      "text": "and",
+      "box": [244, 569, 263, 581],
+      "words": [{ "box": [244, 569, 263, 581], "text": "and" }],
+      "label": "Other",
+      "linking": [],
+      "id": 256
+    },
+    {
+      "text": "head",
+      "box": [272, 569, 297, 581],
+      "words": [{ "box": [272, 569, 297, 581], "text": "head" }],
+      "label": "Other",
+      "linking": [],
+      "id": 257
+    },
+    {
+      "text": "of",
+      "box": [306, 569, 316, 581],
+      "words": [{ "box": [306, 569, 316, 581], "text": "of" }],
+      "label": "Other",
+      "linking": [],
+      "id": 258
+    },
+    {
+      "text": "Gaiam",
+      "box": [324, 569, 357, 581],
+      "words": [{ "box": [324, 569, 357, 581], "text": "Gaiam" }],
+      "label": "Other",
+      "linking": [],
+      "id": 259
+    },
+    {
+      "text": "Life",
+      "box": [366, 569, 384, 581],
+      "words": [{ "box": [366, 569, 384, 581], "text": "Life" }],
+      "label": "Other",
+      "linking": [],
+      "id": 260
+    },
+    {
+      "text": "blog",
+      "box": [393, 569, 415, 581],
+      "words": [{ "box": [393, 569, 415, 581], "text": "blog" }],
+      "label": "Other",
+      "linking": [],
+      "id": 261
+    },
+    {
+      "text": "(blog.gaiam.com)",
+      "box": [423, 569, 516, 581],
+      "words": [{ "box": [423, 569, 516, 581], "text": "(blog.gaiam.com)" }],
+      "label": "Other",
+      "linking": [],
+      "id": 262
+    },
+    {
+      "text": "and",
+      "box": [525, 569, 544, 581],
+      "words": [{ "box": [525, 569, 544, 581], "text": "and" }],
+      "label": "Other",
+      "linking": [],
+      "id": 263
+    },
+    {
+      "text": "worked",
+      "box": [552, 569, 591, 581],
+      "words": [{ "box": [552, 569, 591, 581], "text": "worked" }],
+      "label": "Other",
+      "linking": [],
+      "id": 264
+    },
+    {
+      "text": "with",
+      "box": [599, 569, 621, 581],
+      "words": [{ "box": [599, 569, 621, 581], "text": "with" }],
+      "label": "Other",
+      "linking": [],
+      "id": 265
+    },
+    {
+      "text": "five",
+      "box": [630, 569, 648, 581],
+      "words": [{ "box": [630, 569, 648, 581], "text": "five" }],
+      "label": "Other",
+      "linking": [],
+      "id": 266
+    },
+    {
+      "text": "contributing",
+      "box": [136, 584, 199, 596],
+      "words": [{ "box": [136, 584, 199, 596], "text": "contributing" }],
+      "label": "Other",
+      "linking": [],
+      "id": 267
+    },
+    {
+      "text": "writers",
+      "box": [205, 584, 241, 596],
+      "words": [{ "box": [205, 584, 241, 596], "text": "writers" }],
+      "label": "Other",
+      "linking": [],
+      "id": 268
+    },
+    {
+      "text": "to",
+      "box": [247, 584, 257, 596],
+      "words": [{ "box": [247, 584, 257, 596], "text": "to" }],
+      "label": "Other",
+      "linking": [],
+      "id": 269
+    },
+    {
+      "text": "implement",
+      "box": [263, 584, 319, 596],
+      "words": [{ "box": [263, 584, 319, 596], "text": "implement" }],
+      "label": "Other",
+      "linking": [],
+      "id": 270
+    },
+    {
+      "text": "content",
+      "box": [325, 584, 364, 596],
+      "words": [{ "box": [325, 584, 364, 596], "text": "content" }],
+      "label": "Other",
+      "linking": [],
+      "id": 271
+    },
+    {
+      "text": "calendar",
+      "box": [370, 584, 415, 596],
+      "words": [{ "box": [370, 584, 415, 596], "text": "calendar" }],
+      "label": "Other",
+      "linking": [],
+      "id": 272
+    },
+    {
+      "text": "and",
+      "box": [421, 584, 440, 596],
+      "words": [{ "box": [421, 584, 440, 596], "text": "and" }],
+      "label": "Other",
+      "linking": [],
+      "id": 273
+    },
+    {
+      "text": "revised",
+      "box": [446, 584, 484, 596],
+      "words": [{ "box": [446, 584, 484, 596], "text": "revised" }],
+      "label": "Other",
+      "linking": [],
+      "id": 274
+    },
+    {
+      "text": "schedule",
+      "box": [490, 584, 536, 596],
+      "words": [{ "box": [490, 584, 536, 596], "text": "schedule" }],
+      "label": "Other",
+      "linking": [],
+      "id": 275
+    },
+    {
+      "text": "for",
+      "box": [542, 584, 556, 596],
+      "words": [{ "box": [542, 584, 556, 596], "text": "for" }],
+      "label": "Other",
+      "linking": [],
+      "id": 276
+    },
+    {
+      "text": "writers,",
+      "box": [562, 584, 602, 596],
+      "words": [{ "box": [562, 584, 602, 596], "text": "writers," }],
+      "label": "Other",
+      "linking": [],
+      "id": 277
+    },
+    {
+      "text": "develop",
+      "box": [607, 584, 648, 596],
+      "words": [{ "box": [607, 584, 648, 596], "text": "develop" }],
+      "label": "Other",
+      "linking": [],
+      "id": 278
+    },
+    {
+      "text": "writer\u2019s",
+      "box": [136, 599, 175, 610],
+      "words": [{ "box": [136, 599, 175, 610], "text": "writer\u2019s" }],
+      "label": "Other",
+      "linking": [],
+      "id": 279
+    },
+    {
+      "text": "blog",
+      "box": [178, 599, 201, 610],
+      "words": [{ "box": [178, 599, 201, 610], "text": "blog" }],
+      "label": "Other",
+      "linking": [],
+      "id": 280
+    },
+    {
+      "text": "ideas",
+      "box": [205, 599, 232, 610],
+      "words": [{ "box": [205, 599, 232, 610], "text": "ideas" }],
+      "label": "Other",
+      "linking": [],
+      "id": 281
+    },
+    {
+      "text": "and",
+      "box": [236, 599, 255, 610],
+      "words": [{ "box": [236, 599, 255, 610], "text": "and" }],
+      "label": "Other",
+      "linking": [],
+      "id": 282
+    },
+    {
+      "text": "ensure",
+      "box": [259, 599, 295, 610],
+      "words": [{ "box": [259, 599, 295, 610], "text": "ensure" }],
+      "label": "Other",
+      "linking": [],
+      "id": 283
+    },
+    {
+      "text": "updated",
+      "box": [298, 599, 342, 610],
+      "words": [{ "box": [298, 599, 342, 610], "text": "updated" }],
+      "label": "Other",
+      "linking": [],
+      "id": 284
+    },
+    {
+      "text": "Gaiam",
+      "box": [345, 599, 379, 610],
+      "words": [{ "box": [345, 599, 379, 610], "text": "Gaiam" }],
+      "label": "Other",
+      "linking": [],
+      "id": 285
+    },
+    {
+      "text": "voice",
+      "box": [382, 599, 409, 610],
+      "words": [{ "box": [382, 599, 409, 610], "text": "voice" }],
+      "label": "Other",
+      "linking": [],
+      "id": 286
+    },
+    {
+      "text": "and",
+      "box": [413, 599, 433, 610],
+      "words": [{ "box": [413, 599, 433, 610], "text": "and" }],
+      "label": "Other",
+      "linking": [],
+      "id": 287
+    },
+    {
+      "text": "content,",
+      "box": [437, 599, 480, 610],
+      "words": [{ "box": [437, 599, 480, 610], "text": "content," }],
+      "label": "Other",
+      "linking": [],
+      "id": 288
+    },
+    {
+      "text": "and",
+      "box": [484, 599, 503, 610],
+      "words": [{ "box": [484, 599, 503, 610], "text": "and" }],
+      "label": "Other",
+      "linking": [],
+      "id": 289
+    },
+    {
+      "text": "edit",
+      "box": [507, 599, 527, 610],
+      "words": [{ "box": [507, 599, 527, 610], "text": "edit" }],
+      "label": "Other",
+      "linking": [],
+      "id": 290
+    },
+    {
+      "text": "received",
+      "box": [530, 599, 574, 610],
+      "words": [{ "box": [530, 599, 574, 610], "text": "received" }],
+      "label": "Other",
+      "linking": [],
+      "id": 291
+    },
+    {
+      "text": "work.",
+      "box": [578, 599, 608, 610],
+      "words": [{ "box": [578, 599, 608, 610], "text": "work." }],
+      "label": "Other",
+      "linking": [],
+      "id": 292
+    },
+    {
+      "text": "Colorado",
+      "box": [87, 630, 144, 642],
+      "words": [{ "box": [87, 630, 144, 642], "text": "Colorado" }],
+      "label": "Other",
+      "linking": [],
+      "id": 293
+    },
+    {
+      "text": "State",
+      "box": [147, 630, 181, 642],
+      "words": [{ "box": [147, 630, 181, 642], "text": "State" }],
+      "label": "Other",
+      "linking": [],
+      "id": 294
+    },
+    {
+      "text": "University",
+      "box": [185, 630, 248, 642],
+      "words": [{ "box": [185, 630, 248, 642], "text": "University" }],
+      "label": "Other",
+      "linking": [],
+      "id": 295
+    },
+    {
+      "text": "\u2013",
+      "box": [252, 630, 260, 642],
+      "words": [{ "box": [252, 630, 260, 642], "text": "\u2013" }],
+      "label": "Other",
+      "linking": [],
+      "id": 296
+    },
+    {
+      "text": "Global",
+      "box": [264, 630, 304, 642],
+      "words": [{ "box": [264, 630, 304, 642], "text": "Global" }],
+      "label": "Other",
+      "linking": [],
+      "id": 297
+    },
+    {
+      "text": "Campus,",
+      "box": [308, 630, 362, 642],
+      "words": [{ "box": [308, 630, 362, 642], "text": "Campus," }],
+      "label": "Other",
+      "linking": [],
+      "id": 298
+    },
+    {
+      "text": "Greenwood",
+      "box": [366, 630, 429, 642],
+      "words": [{ "box": [366, 630, 429, 642], "text": "Greenwood" }],
+      "label": "Other",
+      "linking": [],
+      "id": 299
+    },
+    {
+      "text": "Village,",
+      "box": [433, 630, 473, 642],
+      "words": [{ "box": [433, 630, 473, 642], "text": "Village," }],
+      "label": "Other",
+      "linking": [],
+      "id": 300
+    },
+    {
+      "text": "CO",
+      "box": [477, 630, 493, 642],
+      "words": [{ "box": [477, 630, 493, 642], "text": "CO" }],
+      "label": "Other",
+      "linking": [],
+      "id": 301
+    },
+    {
+      "text": "Contract",
+      "box": [87, 647, 142, 659],
+      "words": [{ "box": [87, 647, 142, 659], "text": "Contract" }],
+      "label": "Other",
+      "linking": [],
+      "id": 302
+    },
+    {
+      "text": "Copywriter",
+      "box": [145, 647, 215, 659],
+      "words": [{ "box": [145, 647, 215, 659], "text": "Copywriter" }],
+      "label": "Other",
+      "linking": [],
+      "id": 303
+    },
+    {
+      "text": "July",
+      "box": [87, 664, 109, 676],
+      "words": [{ "box": [87, 664, 109, 676], "text": "July" }],
+      "label": "Other",
+      "linking": [],
+      "id": 304
+    },
+    {
+      "text": "2014",
+      "box": [113, 664, 140, 676],
+      "words": [{ "box": [113, 664, 140, 676], "text": "2014" }],
+      "label": "Other",
+      "linking": [],
+      "id": 305
+    },
+    {
+      "text": "\u2013",
+      "box": [144, 664, 151, 676],
+      "words": [{ "box": [144, 664, 151, 676], "text": "\u2013" }],
+      "label": "Other",
+      "linking": [],
+      "id": 306
+    },
+    {
+      "text": "August",
+      "box": [155, 664, 193, 676],
+      "words": [{ "box": [155, 664, 193, 676], "text": "August" }],
+      "label": "Other",
+      "linking": [],
+      "id": 307
+    },
+    {
+      "text": "2014",
+      "box": [197, 664, 225, 676],
+      "words": [{ "box": [197, 664, 225, 676], "text": "2014" }],
+      "label": "Other",
+      "linking": [],
+      "id": 308
+    },
+    {
+      "text": "\u23aa\uf8f4",
+      "box": [113, 680, 119, 692],
+      "words": [{ "box": [113, 680, 119, 692], "text": "\u23aa\uf8f4" }],
+      "label": "Other",
+      "linking": [],
+      "id": 309
+    },
+    {
+      "text": "\u23aa\uf8f4",
+      "box": [113, 711, 119, 722],
+      "words": [{ "box": [113, 711, 119, 722], "text": "\u23aa\uf8f4" }],
+      "label": "Other",
+      "linking": [],
+      "id": 310
+    },
+    {
+      "text": "\u23aa\uf8f4",
+      "box": [113, 741, 119, 753],
+      "words": [{ "box": [113, 741, 119, 753], "text": "\u23aa\uf8f4" }],
+      "label": "Other",
+      "linking": [],
+      "id": 311
+    },
+    {
+      "text": "\u23aa\uf8f4",
+      "box": [113, 786, 119, 798],
+      "words": [{ "box": [113, 786, 119, 798], "text": "\u23aa\uf8f4" }],
+      "label": "Other",
+      "linking": [],
+      "id": 312
+    },
+    {
+      "text": "Brought",
+      "box": [136, 679, 180, 691],
+      "words": [{ "box": [136, 679, 180, 691], "text": "Brought" }],
+      "label": "Other",
+      "linking": [],
+      "id": 313
+    },
+    {
+      "text": "on",
+      "box": [187, 679, 201, 691],
+      "words": [{ "box": [187, 679, 201, 691], "text": "on" }],
+      "label": "Other",
+      "linking": [],
+      "id": 314
+    },
+    {
+      "text": "to",
+      "box": [207, 679, 218, 691],
+      "words": [{ "box": [207, 679, 218, 691], "text": "to" }],
+      "label": "Other",
+      "linking": [],
+      "id": 315
+    },
+    {
+      "text": "join",
+      "box": [225, 679, 245, 691],
+      "words": [{ "box": [225, 679, 245, 691], "text": "join" }],
+      "label": "Other",
+      "linking": [],
+      "id": 316
+    },
+    {
+      "text": "existing",
+      "box": [252, 679, 294, 691],
+      "words": [{ "box": [252, 679, 294, 691], "text": "existing" }],
+      "label": "Other",
+      "linking": [],
+      "id": 317
+    },
+    {
+      "text": "marketing",
+      "box": [301, 679, 357, 691],
+      "words": [{ "box": [301, 679, 357, 691], "text": "marketing" }],
+      "label": "Other",
+      "linking": [],
+      "id": 318
+    },
+    {
+      "text": "team",
+      "box": [364, 679, 391, 691],
+      "words": [{ "box": [364, 679, 391, 691], "text": "team" }],
+      "label": "Other",
+      "linking": [],
+      "id": 319
+    },
+    {
+      "text": "on",
+      "box": [398, 679, 412, 691],
+      "words": [{ "box": [398, 679, 412, 691], "text": "on" }],
+      "label": "Other",
+      "linking": [],
+      "id": 320
+    },
+    {
+      "text": "a",
+      "box": [419, 679, 425, 691],
+      "words": [{ "box": [419, 679, 425, 691], "text": "a" }],
+      "label": "Other",
+      "linking": [],
+      "id": 321
+    },
+    {
+      "text": "complete",
+      "box": [432, 679, 482, 691],
+      "words": [{ "box": [432, 679, 482, 691], "text": "complete" }],
+      "label": "Other",
+      "linking": [],
+      "id": 322
+    },
+    {
+      "text": "site",
+      "box": [489, 679, 508, 691],
+      "words": [{ "box": [489, 679, 508, 691], "text": "site" }],
+      "label": "Other",
+      "linking": [],
+      "id": 323
+    },
+    {
+      "text": "redesign",
+      "box": [515, 679, 562, 691],
+      "words": [{ "box": [515, 679, 562, 691], "text": "redesign" }],
+      "label": "Other",
+      "linking": [],
+      "id": 324
+    },
+    {
+      "text": "and",
+      "box": [569, 679, 590, 691],
+      "words": [{ "box": [569, 679, 590, 691], "text": "and" }],
+      "label": "Other",
+      "linking": [],
+      "id": 325
+    },
+    {
+      "text": "re-launch",
+      "box": [596, 679, 648, 691],
+      "words": [{ "box": [596, 679, 648, 691], "text": "re-launch" }],
+      "label": "Other",
+      "linking": [],
+      "id": 326
+    },
+    {
+      "text": "project.",
+      "box": [136, 694, 178, 706],
+      "words": [{ "box": [136, 694, 178, 706], "text": "project." }],
+      "label": "Other",
+      "linking": [],
+      "id": 327
+    },
+    {
+      "text": "Rebranded,",
+      "box": [136, 710, 200, 721],
+      "words": [{ "box": [136, 710, 200, 721], "text": "Rebranded," }],
+      "label": "Other",
+      "linking": [],
+      "id": 328
+    },
+    {
+      "text": "helped",
+      "box": [207, 710, 244, 721],
+      "words": [{ "box": [207, 710, 244, 721], "text": "helped" }],
+      "label": "Other",
+      "linking": [],
+      "id": 329
+    },
+    {
+      "text": "to",
+      "box": [251, 710, 262, 721],
+      "words": [{ "box": [251, 710, 262, 721], "text": "to" }],
+      "label": "Other",
+      "linking": [],
+      "id": 330
+    },
+    {
+      "text": "rewrite,",
+      "box": [270, 710, 312, 721],
+      "words": [{ "box": [270, 710, 312, 721], "text": "rewrite," }],
+      "label": "Other",
+      "linking": [],
+      "id": 331
+    },
+    {
+      "text": "and",
+      "box": [319, 710, 340, 721],
+      "words": [{ "box": [319, 710, 340, 721], "text": "and" }],
+      "label": "Other",
+      "linking": [],
+      "id": 332
+    },
+    {
+      "text": "created",
+      "box": [347, 710, 388, 721],
+      "words": [{ "box": [347, 710, 388, 721], "text": "created" }],
+      "label": "Other",
+      "linking": [],
+      "id": 333
+    },
+    {
+      "text": "~500",
+      "box": [396, 710, 425, 721],
+      "words": [{ "box": [396, 710, 425, 721], "text": "~500" }],
+      "label": "Other",
+      "linking": [],
+      "id": 334
+    },
+    {
+      "text": "pages",
+      "box": [433, 710, 465, 721],
+      "words": [{ "box": [433, 710, 465, 721], "text": "pages" }],
+      "label": "Other",
+      "linking": [],
+      "id": 335
+    },
+    {
+      "text": "of",
+      "box": [473, 710, 483, 721],
+      "words": [{ "box": [473, 710, 483, 721], "text": "of" }],
+      "label": "Other",
+      "linking": [],
+      "id": 336
+    },
+    {
+      "text": "content",
+      "box": [491, 710, 532, 721],
+      "words": [{ "box": [491, 710, 532, 721], "text": "content" }],
+      "label": "Other",
+      "linking": [],
+      "id": 337
+    },
+    {
+      "text": "in",
+      "box": [540, 710, 549, 721],
+      "words": [{ "box": [540, 710, 549, 721], "text": "in" }],
+      "label": "Other",
+      "linking": [],
+      "id": 338
+    },
+    {
+      "text": "approximately",
+      "box": [557, 710, 635, 721],
+      "words": [{ "box": [557, 710, 635, 721], "text": "approximately" }],
+      "label": "Other",
+      "linking": [],
+      "id": 339
+    },
+    {
+      "text": "a",
+      "box": [642, 710, 648, 721],
+      "words": [{ "box": [642, 710, 648, 721], "text": "a" }],
+      "label": "Other",
+      "linking": [],
+      "id": 340
+    },
+    {
+      "text": "month",
+      "box": [136, 724, 172, 736],
+      "words": [{ "box": [136, 724, 172, 736], "text": "month" }],
+      "label": "Other",
+      "linking": [],
+      "id": 341
+    },
+    {
+      "text": "long",
+      "box": [176, 724, 199, 736],
+      "words": [{ "box": [176, 724, 199, 736], "text": "long" }],
+      "label": "Other",
+      "linking": [],
+      "id": 342
+    },
+    {
+      "text": "time",
+      "box": [203, 724, 228, 736],
+      "words": [{ "box": [203, 724, 228, 736], "text": "time" }],
+      "label": "Other",
+      "linking": [],
+      "id": 343
+    },
+    {
+      "text": "period.",
+      "box": [232, 724, 270, 736],
+      "words": [{ "box": [232, 724, 270, 736], "text": "period." }],
+      "label": "Other",
+      "linking": [],
+      "id": 344
+    },
+    {
+      "text": "Helped",
+      "box": [136, 740, 175, 752],
+      "words": [{ "box": [136, 740, 175, 752], "text": "Helped" }],
+      "label": "Other",
+      "linking": [],
+      "id": 345
+    },
+    {
+      "text": "to",
+      "box": [182, 740, 193, 752],
+      "words": [{ "box": [182, 740, 193, 752], "text": "to" }],
+      "label": "Other",
+      "linking": [],
+      "id": 346
+    },
+    {
+      "text": "develop",
+      "box": [201, 740, 244, 752],
+      "words": [{ "box": [201, 740, 244, 752], "text": "develop" }],
+      "label": "Other",
+      "linking": [],
+      "id": 347
+    },
+    {
+      "text": "new",
+      "box": [252, 740, 275, 752],
+      "words": [{ "box": [252, 740, 275, 752], "text": "new" }],
+      "label": "Other",
+      "linking": [],
+      "id": 348
+    },
+    {
+      "text": "tone,",
+      "box": [283, 740, 311, 752],
+      "words": [{ "box": [283, 740, 311, 752], "text": "tone," }],
+      "label": "Other",
+      "linking": [],
+      "id": 349
+    },
+    {
+      "text": "voice",
+      "box": [319, 740, 347, 752],
+      "words": [{ "box": [319, 740, 347, 752], "text": "voice" }],
+      "label": "Other",
+      "linking": [],
+      "id": 350
+    },
+    {
+      "text": "and",
+      "box": [355, 740, 375, 752],
+      "words": [{ "box": [355, 740, 375, 752], "text": "and" }],
+      "label": "Other",
+      "linking": [],
+      "id": 351
+    },
+    {
+      "text": "brand",
+      "box": [383, 740, 415, 752],
+      "words": [{ "box": [383, 740, 415, 752], "text": "brand" }],
+      "label": "Other",
+      "linking": [],
+      "id": 352
+    },
+    {
+      "text": "to",
+      "box": [423, 740, 434, 752],
+      "words": [{ "box": [423, 740, 434, 752], "text": "to" }],
+      "label": "Other",
+      "linking": [],
+      "id": 353
+    },
+    {
+      "text": "make",
+      "box": [442, 740, 472, 752],
+      "words": [{ "box": [442, 740, 472, 752], "text": "make" }],
+      "label": "Other",
+      "linking": [],
+      "id": 354
+    },
+    {
+      "text": "content",
+      "box": [479, 740, 521, 752],
+      "words": [{ "box": [479, 740, 521, 752], "text": "content" }],
+      "label": "Other",
+      "linking": [],
+      "id": 355
+    },
+    {
+      "text": "more",
+      "box": [529, 740, 557, 752],
+      "words": [{ "box": [529, 740, 557, 752], "text": "more" }],
+      "label": "Other",
+      "linking": [],
+      "id": 356
+    },
+    {
+      "text": "conversational,",
+      "box": [565, 740, 648, 752],
+      "words": [{ "box": [565, 740, 648, 752], "text": "conversational," }],
+      "label": "Other",
+      "linking": [],
+      "id": 357
+    },
+    {
+      "text": "student-friendly,",
+      "box": [136, 754, 227, 766],
+      "words": [{ "box": [136, 754, 227, 766], "text": "student-friendly," }],
+      "label": "Other",
+      "linking": [],
+      "id": 358
+    },
+    {
+      "text": "and",
+      "box": [233, 754, 253, 766],
+      "words": [{ "box": [233, 754, 253, 766], "text": "and" }],
+      "label": "Other",
+      "linking": [],
+      "id": 359
+    },
+    {
+      "text": "digestible",
+      "box": [259, 754, 312, 766],
+      "words": [{ "box": [259, 754, 312, 766], "text": "digestible" }],
+      "label": "Other",
+      "linking": [],
+      "id": 360
+    },
+    {
+      "text": "as",
+      "box": [317, 754, 330, 766],
+      "words": [{ "box": [317, 754, 330, 766], "text": "as" }],
+      "label": "Other",
+      "linking": [],
+      "id": 361
+    },
+    {
+      "text": "well",
+      "box": [335, 754, 357, 766],
+      "words": [{ "box": [335, 754, 357, 766], "text": "well" }],
+      "label": "Other",
+      "linking": [],
+      "id": 362
+    },
+    {
+      "text": "as",
+      "box": [363, 754, 375, 766],
+      "words": [{ "box": [363, 754, 375, 766], "text": "as" }],
+      "label": "Other",
+      "linking": [],
+      "id": 363
+    },
+    {
+      "text": "add",
+      "box": [381, 754, 401, 766],
+      "words": [{ "box": [381, 754, 401, 766], "text": "add" }],
+      "label": "Other",
+      "linking": [],
+      "id": 364
+    },
+    {
+      "text": "value",
+      "box": [407, 754, 436, 766],
+      "words": [{ "box": [407, 754, 436, 766], "text": "value" }],
+      "label": "Other",
+      "linking": [],
+      "id": 365
+    },
+    {
+      "text": "propositions",
+      "box": [442, 754, 509, 766],
+      "words": [{ "box": [442, 754, 509, 766], "text": "propositions" }],
+      "label": "Other",
+      "linking": [],
+      "id": 366
+    },
+    {
+      "text": "and",
+      "box": [515, 754, 535, 766],
+      "words": [{ "box": [515, 754, 535, 766], "text": "and" }],
+      "label": "Other",
+      "linking": [],
+      "id": 367
+    },
+    {
+      "text": "outcome",
+      "box": [541, 754, 589, 766],
+      "words": [{ "box": [541, 754, 589, 766], "text": "outcome" }],
+      "label": "Other",
+      "linking": [],
+      "id": 368
+    },
+    {
+      "text": "drivers",
+      "box": [594, 754, 632, 766],
+      "words": [{ "box": [594, 754, 632, 766], "text": "drivers" }],
+      "label": "Other",
+      "linking": [],
+      "id": 369
+    },
+    {
+      "text": "to",
+      "box": [637, 754, 648, 766],
+      "words": [{ "box": [637, 754, 648, 766], "text": "to" }],
+      "label": "Other",
+      "linking": [],
+      "id": 370
+    },
+    {
+      "text": "existing",
+      "box": [136, 769, 178, 781],
+      "words": [{ "box": [136, 769, 178, 781], "text": "existing" }],
+      "label": "Other",
+      "linking": [],
+      "id": 371
+    },
+    {
+      "text": "content.",
+      "box": [182, 769, 228, 781],
+      "words": [{ "box": [182, 769, 228, 781], "text": "content." }],
+      "label": "Other",
+      "linking": [],
+      "id": 372
+    },
+    {
+      "text": "Implemented",
+      "box": [136, 785, 206, 797],
+      "words": [{ "box": [136, 785, 206, 797], "text": "Implemented" }],
+      "label": "Other",
+      "linking": [],
+      "id": 373
+    },
+    {
+      "text": "and",
+      "box": [213, 785, 233, 797],
+      "words": [{ "box": [213, 785, 233, 797], "text": "and" }],
+      "label": "Other",
+      "linking": [],
+      "id": 374
+    },
+    {
+      "text": "help",
+      "box": [239, 785, 262, 797],
+      "words": [{ "box": [239, 785, 262, 797], "text": "help" }],
+      "label": "Other",
+      "linking": [],
+      "id": 375
+    },
+    {
+      "text": "to",
+      "box": [268, 785, 279, 797],
+      "words": [{ "box": [268, 785, 279, 797], "text": "to" }],
+      "label": "Other",
+      "linking": [],
+      "id": 376
+    },
+    {
+      "text": "create",
+      "box": [286, 785, 318, 797],
+      "words": [{ "box": [286, 785, 318, 797], "text": "create" }],
+      "label": "Other",
+      "linking": [],
+      "id": 377
+    },
+    {
+      "text": "new",
+      "box": [325, 785, 347, 797],
+      "words": [{ "box": [325, 785, 347, 797], "text": "new" }],
+      "label": "Other",
+      "linking": [],
+      "id": 378
+    },
+    {
+      "text": "site",
+      "box": [354, 785, 372, 797],
+      "words": [{ "box": [354, 785, 372, 797], "text": "site" }],
+      "label": "Other",
+      "linking": [],
+      "id": 379
+    },
+    {
+      "text": "strategy,",
+      "box": [379, 785, 425, 797],
+      "words": [{ "box": [379, 785, 425, 797], "text": "strategy," }],
+      "label": "Other",
+      "linking": [],
+      "id": 380
+    },
+    {
+      "text": "new",
+      "box": [432, 785, 454, 797],
+      "words": [{ "box": [432, 785, 454, 797], "text": "new" }],
+      "label": "Other",
+      "linking": [],
+      "id": 381
+    },
+    {
+      "text": "navigation,",
+      "box": [460, 785, 518, 797],
+      "words": [{ "box": [460, 785, 518, 797], "text": "navigation," }],
+      "label": "Other",
+      "linking": [],
+      "id": 382
+    },
+    {
+      "text": "and",
+      "box": [525, 785, 545, 797],
+      "words": [{ "box": [525, 785, 545, 797], "text": "and" }],
+      "label": "Other",
+      "linking": [],
+      "id": 383
+    },
+    {
+      "text": "structure",
+      "box": [551, 785, 599, 797],
+      "words": [{ "box": [551, 785, 599, 797], "text": "structure" }],
+      "label": "Other",
+      "linking": [],
+      "id": 384
+    },
+    {
+      "text": "to",
+      "box": [605, 785, 616, 797],
+      "words": [{ "box": [605, 785, 616, 797], "text": "to" }],
+      "label": "Other",
+      "linking": [],
+      "id": 385
+    },
+    {
+      "text": "drive",
+      "box": [623, 785, 648, 797],
+      "words": [{ "box": [623, 785, 648, 797], "text": "drive" }],
+      "label": "Other",
+      "linking": [],
+      "id": 386
+    },
+    {
+      "text": "audience",
+      "box": [136, 799, 183, 811],
+      "words": [{ "box": [136, 799, 183, 811], "text": "audience" }],
+      "label": "Other",
+      "linking": [],
+      "id": 387
+    },
+    {
+      "text": "deeper",
+      "box": [191, 799, 228, 811],
+      "words": [{ "box": [191, 799, 228, 811], "text": "deeper" }],
+      "label": "Other",
+      "linking": [],
+      "id": 388
+    },
+    {
+      "text": "faster",
+      "box": [556, 799, 586, 811],
+      "words": [{ "box": [556, 799, 586, 811], "text": "faster" }],
+      "label": "Other",
+      "linking": [],
+      "id": 389
+    },
+    {
+      "text": "and",
+      "box": [594, 799, 613, 811],
+      "words": [{ "box": [594, 799, 613, 811], "text": "and" }],
+      "label": "Other",
+      "linking": [],
+      "id": 390
+    },
+    {
+      "text": "more",
+      "box": [621, 799, 648, 811],
+      "words": [{ "box": [621, 799, 648, 811], "text": "more" }],
+      "label": "Other",
+      "linking": [],
+      "id": 391
+    },
+    {
+      "text": "accurately.",
+      "box": [136, 814, 193, 826],
+      "words": [{ "box": [136, 814, 193, 826], "text": "accurately." }],
+      "label": "Other",
+      "linking": [],
+      "id": 392
+    },
+    {
+      "text": "they",
+      "box": [453, 799, 476, 811],
+      "words": [{ "box": [453, 799, 476, 811], "text": "they" }],
+      "label": "Other",
+      "linking": [],
+      "id": 393
+    },
+    {
+      "text": "are",
+      "box": [484, 799, 500, 811],
+      "words": [{ "box": [484, 799, 500, 811], "text": "are" }],
+      "label": "Other",
+      "linking": [],
+      "id": 394
+    },
+    {
+      "text": "seeking",
+      "box": [508, 799, 548, 811],
+      "words": [{ "box": [508, 799, 548, 811], "text": "seeking" }],
+      "label": "Other",
+      "linking": [],
+      "id": 395
+    },
+    {
+      "text": "the",
+      "box": [263, 799, 280, 811],
+      "words": [{ "box": [263, 799, 280, 811], "text": "the" }],
+      "label": "Other",
+      "linking": [],
+      "id": 396
+    },
+    {
+      "text": "site",
+      "box": [288, 799, 306, 811],
+      "words": [{ "box": [288, 799, 306, 811], "text": "site" }],
+      "label": "Other",
+      "linking": [],
+      "id": 397
+    },
+    {
+      "text": "and",
+      "box": [314, 799, 334, 811],
+      "words": [{ "box": [314, 799, 334, 811], "text": "and" }],
+      "label": "Other",
+      "linking": [],
+      "id": 398
+    },
+    {
+      "text": "information",
+      "box": [385, 799, 445, 811],
+      "words": [{ "box": [385, 799, 445, 811], "text": "information" }],
+      "label": "Other",
+      "linking": [],
+      "id": 399
+    },
+    {
+      "text": "into",
+      "box": [235, 799, 255, 811],
+      "words": [{ "box": [235, 799, 255, 811], "text": "into" }],
+      "label": "Other",
+      "linking": [],
+      "id": 400
+    },
+    {
+      "text": "the",
+      "box": [360, 799, 377, 811],
+      "words": [{ "box": [360, 799, 377, 811], "text": "the" }],
+      "label": "Other",
+      "linking": [],
+      "id": 401
+    },
+    {
+      "text": "to",
+      "box": [342, 799, 352, 811],
+      "words": [{ "box": [342, 799, 352, 811], "text": "to" }],
+      "label": "Other",
+      "linking": [],
+      "id": 402
+    },
+    {
+      "text": "Sports",
+      "box": [87, 846, 128, 857],
+      "words": [{ "box": [87, 846, 128, 857], "text": "Sports" }],
+      "label": "Other",
+      "linking": [],
+      "id": 403
+    },
+    {
+      "text": "Authority,",
+      "box": [131, 846, 194, 857],
+      "words": [{ "box": [131, 846, 194, 857], "text": "Authority," }],
+      "label": "Other",
+      "linking": [],
+      "id": 404
+    },
+    {
+      "text": "Englewood,",
+      "box": [197, 846, 262, 857],
+      "words": [{ "box": [197, 846, 262, 857], "text": "Englewood," }],
+      "label": "Other",
+      "linking": [],
+      "id": 405
+    },
+    {
+      "text": "CO",
+      "box": [265, 846, 281, 857],
+      "words": [{ "box": [265, 846, 281, 857], "text": "CO" }],
+      "label": "Other",
+      "linking": [],
+      "id": 406
+    },
+    {
+      "text": "Digital",
+      "box": [87, 861, 129, 873],
+      "words": [{ "box": [87, 861, 129, 873], "text": "Digital" }],
+      "label": "Other",
+      "linking": [],
+      "id": 407
+    },
+    {
+      "text": "Copywriter",
+      "box": [131, 861, 201, 873],
+      "words": [{ "box": [131, 861, 201, 873], "text": "Copywriter" }],
+      "label": "Other",
+      "linking": [],
+      "id": 408
+    },
+    {
+      "text": "II",
+      "box": [204, 861, 217, 873],
+      "words": [{ "box": [204, 861, 217, 873], "text": "II" }],
+      "label": "Other",
+      "linking": [],
+      "id": 409
+    },
+    {
+      "text": "December",
+      "box": [87, 876, 143, 888],
+      "words": [{ "box": [87, 876, 143, 888], "text": "December" }],
+      "label": "Other",
+      "linking": [],
+      "id": 410
+    },
+    {
+      "text": "2012",
+      "box": [147, 876, 174, 888],
+      "words": [{ "box": [147, 876, 174, 888], "text": "2012" }],
+      "label": "Other",
+      "linking": [],
+      "id": 411
+    },
+    {
+      "text": "-",
+      "box": [178, 876, 183, 888],
+      "words": [{ "box": [178, 876, 183, 888], "text": "-" }],
+      "label": "Other",
+      "linking": [],
+      "id": 412
+    },
+    {
+      "text": "May",
+      "box": [186, 876, 210, 888],
+      "words": [{ "box": [186, 876, 210, 888], "text": "May" }],
+      "label": "Other",
+      "linking": [],
+      "id": 413
+    },
+    {
+      "text": "2014",
+      "box": [214, 876, 243, 888],
+      "words": [{ "box": [214, 876, 243, 888], "text": "2014" }],
+      "label": "Other",
+      "linking": [],
+      "id": 414
+    },
+    {
+      "text": "\u23aa\uf8f4",
+      "box": [113, 893, 119, 905],
+      "words": [{ "box": [113, 893, 119, 905], "text": "\u23aa\uf8f4" }],
+      "label": "Other",
+      "linking": [],
+      "id": 415
+    },
+    {
+      "text": "\u23aa\uf8f4",
+      "box": [113, 938, 119, 949],
+      "words": [{ "box": [113, 938, 119, 949], "text": "\u23aa\uf8f4" }],
+      "label": "Other",
+      "linking": [],
+      "id": 416
+    },
+    {
+      "text": "\u23aa\uf8f4",
+      "box": [113, 967, 119, 979],
+      "words": [{ "box": [113, 967, 119, 979], "text": "\u23aa\uf8f4" }],
+      "label": "Other",
+      "linking": [],
+      "id": 417
+    },
+    {
+      "text": "Worked",
+      "box": [136, 892, 179, 904],
+      "words": [{ "box": [136, 892, 179, 904], "text": "Worked" }],
+      "label": "Other",
+      "linking": [],
+      "id": 418
+    },
+    {
+      "text": "as",
+      "box": [185, 892, 197, 904],
+      "words": [{ "box": [185, 892, 197, 904], "text": "as" }],
+      "label": "Other",
+      "linking": [],
+      "id": 419
+    },
+    {
+      "text": "essential",
+      "box": [204, 892, 252, 904],
+      "words": [{ "box": [204, 892, 252, 904], "text": "essential" }],
+      "label": "Other",
+      "linking": [],
+      "id": 420
+    },
+    {
+      "text": "part",
+      "box": [258, 892, 281, 904],
+      "words": [{ "box": [258, 892, 281, 904], "text": "part" }],
+      "label": "Other",
+      "linking": [],
+      "id": 421
+    },
+    {
+      "text": "of",
+      "box": [288, 892, 298, 904],
+      "words": [{ "box": [288, 892, 298, 904], "text": "of" }],
+      "label": "Other",
+      "linking": [],
+      "id": 422
+    },
+    {
+      "text": "the",
+      "box": [305, 892, 322, 904],
+      "words": [{ "box": [305, 892, 322, 904], "text": "the" }],
+      "label": "Other",
+      "linking": [],
+      "id": 423
+    },
+    {
+      "text": "creative",
+      "box": [329, 892, 373, 904],
+      "words": [{ "box": [329, 892, 373, 904], "text": "creative" }],
+      "label": "Other",
+      "linking": [],
+      "id": 424
+    },
+    {
+      "text": "team",
+      "box": [379, 892, 407, 904],
+      "words": [{ "box": [379, 892, 407, 904], "text": "team" }],
+      "label": "Other",
+      "linking": [],
+      "id": 425
+    },
+    {
+      "text": "writing",
+      "box": [414, 892, 451, 904],
+      "words": [{ "box": [414, 892, 451, 904], "text": "writing" }],
+      "label": "Other",
+      "linking": [],
+      "id": 426
+    },
+    {
+      "text": "and",
+      "box": [458, 892, 477, 904],
+      "words": [{ "box": [458, 892, 477, 904], "text": "and" }],
+      "label": "Other",
+      "linking": [],
+      "id": 427
+    },
+    {
+      "text": "producing",
+      "box": [484, 892, 541, 904],
+      "words": [{ "box": [484, 892, 541, 904], "text": "producing" }],
+      "label": "Other",
+      "linking": [],
+      "id": 428
+    },
+    {
+      "text": "copy",
+      "box": [549, 892, 576, 904],
+      "words": [{ "box": [549, 892, 576, 904], "text": "copy" }],
+      "label": "Other",
+      "linking": [],
+      "id": 429
+    },
+    {
+      "text": "for",
+      "box": [583, 892, 599, 904],
+      "words": [{ "box": [583, 892, 599, 904], "text": "for" }],
+      "label": "Other",
+      "linking": [],
+      "id": 430
+    },
+    {
+      "text": "various",
+      "box": [606, 892, 648, 904],
+      "words": [{ "box": [606, 892, 648, 904], "text": "various" }],
+      "label": "Other",
+      "linking": [],
+      "id": 431
+    },
+    {
+      "text": "mediums",
+      "box": [136, 906, 189, 918],
+      "words": [{ "box": [136, 906, 189, 918], "text": "mediums" }],
+      "label": "Other",
+      "linking": [],
+      "id": 432
+    },
+    {
+      "text": "including",
+      "box": [193, 906, 246, 918],
+      "words": [{ "box": [193, 906, 246, 918], "text": "including" }],
+      "label": "Other",
+      "linking": [],
+      "id": 433
+    },
+    {
+      "text": "email",
+      "box": [251, 906, 280, 918],
+      "words": [{ "box": [251, 906, 280, 918], "text": "email" }],
+      "label": "Other",
+      "linking": [],
+      "id": 434
+    },
+    {
+      "text": "(with",
+      "box": [284, 906, 312, 918],
+      "words": [{ "box": [284, 906, 312, 918], "text": "(with" }],
+      "label": "Other",
+      "linking": [],
+      "id": 435
+    },
+    {
+      "text": "subject",
+      "box": [317, 906, 357, 918],
+      "words": [{ "box": [317, 906, 357, 918], "text": "subject" }],
+      "label": "Other",
+      "linking": [],
+      "id": 436
+    },
+    {
+      "text": "lines",
+      "box": [361, 906, 386, 918],
+      "words": [{ "box": [361, 906, 386, 918], "text": "lines" }],
+      "label": "Other",
+      "linking": [],
+      "id": 437
+    },
+    {
+      "text": "and",
+      "box": [390, 906, 410, 918],
+      "words": [{ "box": [390, 906, 410, 918], "text": "and" }],
+      "label": "Other",
+      "linking": [],
+      "id": 438
+    },
+    {
+      "text": "snippets),",
+      "box": [414, 906, 469, 918],
+      "words": [{ "box": [414, 906, 469, 918], "text": "snippets)," }],
+      "label": "Other",
+      "linking": [],
+      "id": 439
+    },
+    {
+      "text": "home",
+      "box": [473, 906, 504, 918],
+      "words": [{ "box": [473, 906, 504, 918], "text": "home" }],
+      "label": "Other",
+      "linking": [],
+      "id": 440
+    },
+    {
+      "text": "pages,",
+      "box": [508, 906, 545, 918],
+      "words": [{ "box": [508, 906, 545, 918], "text": "pages," }],
+      "label": "Other",
+      "linking": [],
+      "id": 441
+    },
+    {
+      "text": "site",
+      "box": [549, 906, 569, 918],
+      "words": [{ "box": [549, 906, 569, 918], "text": "site" }],
+      "label": "Other",
+      "linking": [],
+      "id": 442
+    },
+    {
+      "text": "articles,",
+      "box": [573, 906, 616, 918],
+      "words": [{ "box": [573, 906, 616, 918], "text": "articles," }],
+      "label": "Other",
+      "linking": [],
+      "id": 443
+    },
+    {
+      "text": "CMS,",
+      "box": [620, 906, 648, 918],
+      "words": [{ "box": [620, 906, 648, 918], "text": "CMS," }],
+      "label": "Other",
+      "linking": [],
+      "id": 444
+    },
+    {
+      "text": "banner",
+      "box": [136, 921, 175, 933],
+      "words": [{ "box": [136, 921, 175, 933], "text": "banner" }],
+      "label": "Other",
+      "linking": [],
+      "id": 445
+    },
+    {
+      "text": "and",
+      "box": [179, 921, 200, 933],
+      "words": [{ "box": [179, 921, 200, 933], "text": "and" }],
+      "label": "Other",
+      "linking": [],
+      "id": 446
+    },
+    {
+      "text": "display,",
+      "box": [204, 921, 247, 933],
+      "words": [{ "box": [204, 921, 247, 933], "text": "display," }],
+      "label": "Other",
+      "linking": [],
+      "id": 447
+    },
+    {
+      "text": "social",
+      "box": [251, 921, 281, 933],
+      "words": [{ "box": [251, 921, 281, 933], "text": "social" }],
+      "label": "Other",
+      "linking": [],
+      "id": 448
+    },
+    {
+      "text": "media",
+      "box": [285, 921, 318, 933],
+      "words": [{ "box": [285, 921, 318, 933], "text": "media" }],
+      "label": "Other",
+      "linking": [],
+      "id": 449
+    },
+    {
+      "text": "content,",
+      "box": [322, 921, 368, 933],
+      "words": [{ "box": [322, 921, 368, 933], "text": "content," }],
+      "label": "Other",
+      "linking": [],
+      "id": 450
+    },
+    {
+      "text": "and",
+      "box": [370, 921, 391, 933],
+      "words": [{ "box": [370, 921, 391, 933], "text": "and" }],
+      "label": "Other",
+      "linking": [],
+      "id": 451
+    },
+    {
+      "text": "landing",
+      "box": [394, 921, 435, 933],
+      "words": [{ "box": [394, 921, 435, 933], "text": "landing" }],
+      "label": "Other",
+      "linking": [],
+      "id": 452
+    },
+    {
+      "text": "pages.",
+      "box": [438, 921, 475, 933],
+      "words": [{ "box": [438, 921, 475, 933], "text": "pages." }],
+      "label": "Other",
+      "linking": [],
+      "id": 453
+    },
+    {
+      "text": "Helped",
+      "box": [136, 937, 175, 948],
+      "words": [{ "box": [136, 937, 175, 948], "text": "Helped" }],
+      "label": "Other",
+      "linking": [],
+      "id": 454
+    },
+    {
+      "text": "to",
+      "box": [179, 937, 190, 948],
+      "words": [{ "box": [179, 937, 190, 948], "text": "to" }],
+      "label": "Other",
+      "linking": [],
+      "id": 455
+    },
+    {
+      "text": "meet",
+      "box": [194, 937, 222, 948],
+      "words": [{ "box": [194, 937, 222, 948], "text": "meet" }],
+      "label": "Other",
+      "linking": [],
+      "id": 456
+    },
+    {
+      "text": "and",
+      "box": [226, 937, 247, 948],
+      "words": [{ "box": [226, 937, 247, 948], "text": "and" }],
+      "label": "Other",
+      "linking": [],
+      "id": 457
+    },
+    {
+      "text": "exceed",
+      "box": [251, 937, 290, 948],
+      "words": [{ "box": [251, 937, 290, 948], "text": "exceed" }],
+      "label": "Other",
+      "linking": [],
+      "id": 458
+    },
+    {
+      "text": "2013",
+      "box": [294, 937, 321, 948],
+      "words": [{ "box": [294, 937, 321, 948], "text": "2013" }],
+      "label": "Other",
+      "linking": [],
+      "id": 459
+    },
+    {
+      "text": "Q4",
+      "box": [325, 937, 341, 948],
+      "words": [{ "box": [325, 937, 341, 948], "text": "Q4" }],
+      "label": "Other",
+      "linking": [],
+      "id": 460
+    },
+    {
+      "text": "eComm",
+      "box": [345, 937, 387, 948],
+      "words": [{ "box": [345, 937, 387, 948], "text": "eComm" }],
+      "label": "Other",
+      "linking": [],
+      "id": 461
+    },
+    {
+      "text": "sales",
+      "box": [392, 937, 419, 948],
+      "words": [{ "box": [392, 937, 419, 948], "text": "sales" }],
+      "label": "Other",
+      "linking": [],
+      "id": 462
+    },
+    {
+      "text": "goal",
+      "box": [423, 937, 446, 948],
+      "words": [{ "box": [423, 937, 446, 948], "text": "goal" }],
+      "label": "Other",
+      "linking": [],
+      "id": 463
+    },
+    {
+      "text": "of",
+      "box": [451, 937, 461, 948],
+      "words": [{ "box": [451, 937, 461, 948], "text": "of" }],
+      "label": "Other",
+      "linking": [],
+      "id": 464
+    },
+    {
+      "text": "$75MM",
+      "box": [465, 937, 505, 948],
+      "words": [{ "box": [465, 937, 505, 948], "text": "$75MM" }],
+      "label": "Other",
+      "linking": [],
+      "id": 465
+    },
+    {
+      "text": "as",
+      "box": [510, 937, 522, 948],
+      "words": [{ "box": [510, 937, 522, 948], "text": "as" }],
+      "label": "Other",
+      "linking": [],
+      "id": 466
+    },
+    {
+      "text": "lead",
+      "box": [526, 937, 549, 948],
+      "words": [{ "box": [526, 937, 549, 948], "text": "lead" }],
+      "label": "Other",
+      "linking": [],
+      "id": 467
+    },
+    {
+      "text": "digital",
+      "box": [553, 937, 586, 948],
+      "words": [{ "box": [553, 937, 586, 948], "text": "digital" }],
+      "label": "Other",
+      "linking": [],
+      "id": 468
+    },
+    {
+      "text": "copywriter",
+      "box": [591, 937, 648, 948],
+      "words": [{ "box": [591, 937, 648, 948], "text": "copywriter" }],
+      "label": "Other",
+      "linking": [],
+      "id": 469
+    },
+    {
+      "text": "on",
+      "box": [136, 951, 150, 963],
+      "words": [{ "box": [136, 951, 150, 963], "text": "on" }],
+      "label": "Other",
+      "linking": [],
+      "id": 470
+    },
+    {
+      "text": "developed",
+      "box": [154, 951, 211, 963],
+      "words": [{ "box": [154, 951, 211, 963], "text": "developed" }],
+      "label": "Other",
+      "linking": [],
+      "id": 471
+    },
+    {
+      "text": "task",
+      "box": [215, 951, 237, 963],
+      "words": [{ "box": [215, 951, 237, 963], "text": "task" }],
+      "label": "Other",
+      "linking": [],
+      "id": 472
+    },
+    {
+      "text": "force",
+      "box": [241, 951, 269, 963],
+      "words": [{ "box": [241, 951, 269, 963], "text": "force" }],
+      "label": "Other",
+      "linking": [],
+      "id": 473
+    },
+    {
+      "text": "for",
+      "box": [273, 951, 288, 963],
+      "words": [{ "box": [273, 951, 288, 963], "text": "for" }],
+      "label": "Other",
+      "linking": [],
+      "id": 474
+    },
+    {
+      "text": "all",
+      "box": [292, 951, 304, 963],
+      "words": [{ "box": [292, 951, 304, 963], "text": "all" }],
+      "label": "Other",
+      "linking": [],
+      "id": 475
+    },
+    {
+      "text": "things",
+      "box": [308, 951, 342, 963],
+      "words": [{ "box": [308, 951, 342, 963], "text": "things" }],
+      "label": "Other",
+      "linking": [],
+      "id": 476
+    },
+    {
+      "text": "\u201choliday\u201d.",
+      "box": [346, 951, 399, 963],
+      "words": [
+        { "box": [346, 951, 399, 963], "text": "\u201choliday\u201d." }
+      ],
+      "label": "Other",
+      "linking": [],
+      "id": 477
+    },
+    {
+      "text": "Collaborated",
+      "box": [136, 966, 206, 978],
+      "words": [{ "box": [136, 966, 206, 978], "text": "Collaborated" }],
+      "label": "Other",
+      "linking": [],
+      "id": 478
+    },
+    {
+      "text": "on",
+      "box": [210, 966, 223, 978],
+      "words": [{ "box": [210, 966, 223, 978], "text": "on" }],
+      "label": "Other",
+      "linking": [],
+      "id": 479
+    },
+    {
+      "text": "creative",
+      "box": [227, 966, 271, 978],
+      "words": [{ "box": [227, 966, 271, 978], "text": "creative" }],
+      "label": "Other",
+      "linking": [],
+      "id": 480
+    },
+    {
+      "text": "pieces",
+      "box": [275, 966, 308, 978],
+      "words": [{ "box": [275, 966, 308, 978], "text": "pieces" }],
+      "label": "Other",
+      "linking": [],
+      "id": 481
+    },
+    {
+      "text": "from",
+      "box": [311, 966, 337, 978],
+      "words": [{ "box": [311, 966, 337, 978], "text": "from" }],
+      "label": "Other",
+      "linking": [],
+      "id": 482
+    },
+    {
+      "text": "start",
+      "box": [341, 966, 366, 978],
+      "words": [{ "box": [341, 966, 366, 978], "text": "start" }],
+      "label": "Other",
+      "linking": [],
+      "id": 483
+    },
+    {
+      "text": "to",
+      "box": [369, 966, 380, 978],
+      "words": [{ "box": [369, 966, 380, 978], "text": "to" }],
+      "label": "Other",
+      "linking": [],
+      "id": 484
+    },
+    {
+      "text": "finish",
+      "box": [384, 966, 413, 978],
+      "words": [{ "box": [384, 966, 413, 978], "text": "finish" }],
+      "label": "Other",
+      "linking": [],
+      "id": 485
+    },
+    {
+      "text": "by",
+      "box": [417, 966, 430, 978],
+      "words": [{ "box": [417, 966, 430, 978], "text": "by" }],
+      "label": "Other",
+      "linking": [],
+      "id": 486
+    },
+    {
+      "text": "participating",
+      "box": [433, 966, 502, 978],
+      "words": [{ "box": [433, 966, 502, 978], "text": "participating" }],
+      "label": "Other",
+      "linking": [],
+      "id": 487
+    },
+    {
+      "text": "in",
+      "box": [506, 966, 516, 978],
+      "words": [{ "box": [506, 966, 516, 978], "text": "in" }],
+      "label": "Other",
+      "linking": [],
+      "id": 488
+    },
+    {
+      "text": "kickoff",
+      "box": [519, 966, 555, 978],
+      "words": [{ "box": [519, 966, 555, 978], "text": "kickoff" }],
+      "label": "Other",
+      "linking": [],
+      "id": 489
+    },
+    {
+      "text": "meetings,",
+      "box": [559, 966, 614, 978],
+      "words": [{ "box": [559, 966, 614, 978], "text": "meetings," }],
+      "label": "Other",
+      "linking": [],
+      "id": 490
+    }
+  ]
+}
