@@ -10,8 +10,8 @@ annotation_path = "person_resume_funsd_format_v5/dataset/processed_data/labels/0
 
 # Example mapping from YOLO class id to label name
 label_map = {
-    "0": "Personal_Info",
-    "1": "Experience",
+    "0": "Experience",
+    "1": "Personal_Info",
     "2": "Skills"
 }
 
