@@ -101,8 +101,10 @@ for label, crops in cropped_by_label.items():
         current_y += h
 
     # Extract text using Tesseract OCR
+    gray = cv2.cvtColor(output_img, cv2.COLOR_BGR2GRAY)
+    thresh = cv2.adaptiveThreshold(gray, 255, cv2.ADAPTIVE_THRESH_GAUSSIAN_C, cv2.THRESH_BINARY, 11, 2)
     custom_config = r'--oem 3 --psm 6'  # Adjust config as needed
-    extracted_text = pytesseract.image_to_string(output_img, config=custom_config)
+    extracted_text = pytesseract.image_to_string(thresh, config=custom_config)
     
     extracted_text_dict[label] = extracted_text
     
